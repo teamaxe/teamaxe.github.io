@@ -1,7 +1,7 @@
 var dir_89e584a893a9497c1697c10f5ac25cc0 =
 [
     [ "ConscienceBuilder.h", "_conscience_builder_8h.html", [
-      [ "ConscienceBuilder", "interface_conscience_builder.html", null ]
+      [ "ConscienceBuilder", "class_conscience_builder.html", null ]
     ] ],
     [ "ConscienceBuilder.m", "_conscience_builder_8m.html", null ],
     [ "UIColor+Utility.h", "_u_i_color_09_utility_8h.html", [
@@ -17,7 +17,7 @@ var dir_89e584a893a9497c1697c10f5ac25cc0 =
     ] ],
     [ "UIViewController+Screenshot.m", "_u_i_view_controller_09_screenshot_8m.html", null ],
     [ "UserConscience.h", "_user_conscience_8h.html", [
-      [ "UserConscience", "interface_user_conscience.html", "interface_user_conscience" ]
+      [ "UserConscience", "class_user_conscience.html", "class_user_conscience" ]
     ] ],
     [ "UserConscience.m", "_user_conscience_8m.html", "_user_conscience_8m" ],
     [ "ViewControllerLocalization.h", "_view_controller_localization_8h.html", [

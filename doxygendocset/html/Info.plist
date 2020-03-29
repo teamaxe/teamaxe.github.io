@@ -6,15 +6,15 @@
      <key>CFBundleName</key>
      <string>MoraLife</string>
      <key>CFBundleIdentifier</key>
-     <string>org.teamaxe.MoraLife</string>
+     <string>com.adamaxe.MoraLife</string>
      <key>CFBundleVersion</key>
      <string>1.3.4</string>
      <key>DocSetFeedName</key>
      <string>Doxygen generated docs</string>
      <key>DocSetPublisherIdentifier</key>
-     <string>org.teamaxe</string>
+     <string>com.adamaxe</string>
      <key>DocSetPublisherName</key>
-     <string>TeamAxe, LLC.</string>
+     <string>Adam Axe</string>
      <key>DashDocSetFamily</key>
      <string>doxy</string>
      <key>DocSetPlatformFamily</key>

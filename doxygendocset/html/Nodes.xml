@@ -23,11 +23,11 @@
           <Subnodes>
            <Node>
             <Name>AccessoryObjectView</Name>
-            <Path>interface_accessory_object_view.html</Path>
+            <Path>class_accessory_object_view.html</Path>
             <Subnodes>
              <Node>
               <Name>accessoryFilename</Name>
-              <Path>interface_accessory_object_view.html</Path>
+              <Path>class_accessory_object_view.html</Path>
               <Anchor>adf4fc2397308b85c4aa164ebe69525b5</Anchor>
              </Node>
             </Subnodes>
@@ -171,42 +171,42 @@
            </Node>
            <Node>
             <Name>CharacterDAO</Name>
-            <Path>interface_character_d_a_o.html</Path>
+            <Path>class_character_d_a_o.html</Path>
             <Subnodes>
              <Node>
               <Name>initWithKey:andModelManager:</Name>
-              <Path>interface_character_d_a_o.html</Path>
+              <Path>class_character_d_a_o.html</Path>
               <Anchor>aafb5762ffeb1587e7a4e9e3e7f421f0e</Anchor>
              </Node>
              <Node>
               <Name>read:</Name>
-              <Path>interface_character_d_a_o.html</Path>
+              <Path>class_character_d_a_o.html</Path>
               <Anchor>a80dd04c2471edbf66e3e0300eecee664</Anchor>
              </Node>
             </Subnodes>
            </Node>
            <Node>
             <Name>ChoiceDetailViewController</Name>
-            <Path>interface_choice_detail_view_controller.html</Path>
+            <Path>class_choice_detail_view_controller.html</Path>
             <Subnodes>
              <Node>
               <Name>cancelTapped</Name>
-              <Path>interface_choice_detail_view_controller.html</Path>
+              <Path>class_choice_detail_view_controller.html</Path>
               <Anchor>a7d90ad0b6fc3bebee1212f2ba2964b8c</Anchor>
              </Node>
              <Node>
               <Name>influenceChange:</Name>
-              <Path>interface_choice_detail_view_controller.html</Path>
+              <Path>class_choice_detail_view_controller.html</Path>
               <Anchor>aedf0b335a211a28d039f15827e9652c0</Anchor>
              </Node>
              <Node>
               <Name>saveTapped:</Name>
-              <Path>interface_choice_detail_view_controller.html</Path>
+              <Path>class_choice_detail_view_controller.html</Path>
               <Anchor>a9a433dcdb6d5adc92aaade994bead867</Anchor>
              </Node>
              <Node>
               <Name>selectInfluence:</Name>
-              <Path>interface_choice_detail_view_controller.html</Path>
+              <Path>class_choice_detail_view_controller.html</Path>
               <Anchor>aab550456e76b1a30f351bd756aed69e8</Anchor>
              </Node>
             </Subnodes>
@@ -416,21 +416,21 @@
            </Node>
            <Node>
             <Name>ChoiceHistoryViewController</Name>
-            <Path>interface_choice_history_view_controller.html</Path>
+            <Path>class_choice_history_view_controller.html</Path>
             <Subnodes>
              <Node>
               <Name>dismissChoiceModal:</Name>
-              <Path>interface_choice_history_view_controller.html</Path>
+              <Path>class_choice_history_view_controller.html</Path>
               <Anchor>a139f8cbe4b6eee78ad6c1ce3fc007a79</Anchor>
              </Node>
              <Node>
               <Name>initWithModel:modelManager:andConscience:</Name>
-              <Path>interface_choice_history_view_controller.html</Path>
+              <Path>class_choice_history_view_controller.html</Path>
               <Anchor>afb26becf573e8135be13906dc9ad256c</Anchor>
              </Node>
              <Node>
               <Name>screenshot</Name>
-              <Path>interface_choice_history_view_controller.html</Path>
+              <Path>class_choice_history_view_controller.html</Path>
               <Anchor>a2ccdcb3bf97f0c476b34e60a762a61ee</Anchor>
              </Node>
             </Subnodes>
@@ -528,11 +528,11 @@
            </Node>
            <Node>
             <Name>ChoiceInitViewController</Name>
-            <Path>interface_choice_init_view_controller.html</Path>
+            <Path>class_choice_init_view_controller.html</Path>
             <Subnodes>
              <Node>
               <Name>selectChoiceType:</Name>
-              <Path>interface_choice_init_view_controller.html</Path>
+              <Path>class_choice_init_view_controller.html</Path>
               <Anchor>a6a08b305cbd6da183756eac79a1bb214</Anchor>
              </Node>
             </Subnodes>
@@ -717,16 +717,16 @@
            </Node>
            <Node>
             <Name>ChoiceModalViewController</Name>
-            <Path>interface_choice_modal_view_controller.html</Path>
+            <Path>class_choice_modal_view_controller.html</Path>
             <Subnodes>
              <Node>
               <Name>dismissChoiceModal:</Name>
-              <Path>interface_choice_modal_view_controller.html</Path>
+              <Path>class_choice_modal_view_controller.html</Path>
               <Anchor>af8ecbc8b2cbf20e70cd71d300ff296fb</Anchor>
              </Node>
              <Node>
               <Name>screenshot</Name>
-              <Path>interface_choice_modal_view_controller.html</Path>
+              <Path>class_choice_modal_view_controller.html</Path>
               <Anchor>a90951e3851ddccb66de571ad7f5199d2</Anchor>
              </Node>
             </Subnodes>
@@ -1052,26 +1052,26 @@
            </Node>
            <Node>
             <Name>ConscienceAcceptViewController</Name>
-            <Path>interface_conscience_accept_view_controller.html</Path>
+            <Path>class_conscience_accept_view_controller.html</Path>
             <Subnodes>
              <Node>
               <Name>acceptThoughtModal:</Name>
-              <Path>interface_conscience_accept_view_controller.html</Path>
+              <Path>class_conscience_accept_view_controller.html</Path>
               <Anchor>a766b61529949dc7a1a5110b62bb10be5</Anchor>
              </Node>
              <Node>
               <Name>accessorySlot</Name>
-              <Path>interface_conscience_accept_view_controller.html</Path>
+              <Path>class_conscience_accept_view_controller.html</Path>
               <Anchor>a0029f6d4cb8e280186b1bf78b3960346</Anchor>
              </Node>
              <Node>
               <Name>assetSelection</Name>
-              <Path>interface_conscience_accept_view_controller.html</Path>
+              <Path>class_conscience_accept_view_controller.html</Path>
               <Anchor>a6fc39a7fa8836af8693a1d085a4ae723</Anchor>
              </Node>
              <Node>
               <Name>screenshot</Name>
-              <Path>interface_conscience_accept_view_controller.html</Path>
+              <Path>class_conscience_accept_view_controller.html</Path>
               <Anchor>a6b11756d7100d48df2b31a111b0a3f69</Anchor>
              </Node>
             </Subnodes>
@@ -1225,21 +1225,21 @@
            </Node>
            <Node>
             <Name>ConscienceAccessoryViewController</Name>
-            <Path>interface_conscience_accessory_view_controller.html</Path>
+            <Path>class_conscience_accessory_view_controller.html</Path>
             <Subnodes>
              <Node>
               <Name>dismissAccessoryModal</Name>
-              <Path>interface_conscience_accessory_view_controller.html</Path>
+              <Path>class_conscience_accessory_view_controller.html</Path>
               <Anchor>a5cc8cf67ad9aa7f7fadc564957dfaf80</Anchor>
              </Node>
              <Node>
               <Name>selectChoice:</Name>
-              <Path>interface_conscience_accessory_view_controller.html</Path>
+              <Path>class_conscience_accessory_view_controller.html</Path>
               <Anchor>a98714ab8c43214b3f03bda27d1750f76</Anchor>
              </Node>
              <Node>
               <Name>screenshot</Name>
-              <Path>interface_conscience_accessory_view_controller.html</Path>
+              <Path>class_conscience_accessory_view_controller.html</Path>
               <Anchor>ad4597b3251d890e36633f813faa87c46</Anchor>
              </Node>
             </Subnodes>
@@ -1512,7 +1512,7 @@
            </Node>
            <Node>
             <Name>ConscienceBuilder</Name>
-            <Path>interface_conscience_builder.html</Path>
+            <Path>class_conscience_builder.html</Path>
             <Subnodes>
             </Subnodes>
            </Node>
@@ -1900,31 +1900,31 @@
            </Node>
            <Node>
             <Name>ConscienceObjectView</Name>
-            <Path>interface_conscience_object_view.html</Path>
+            <Path>class_conscience_object_view.html</Path>
             <Subnodes>
              <Node>
               <Name>createPathFromPoints:WithInstructions:ForPath:</Name>
-              <Path>interface_conscience_object_view.html</Path>
+              <Path>class_conscience_object_view.html</Path>
               <Anchor>a71845b4d598981e016f97c54e3b0d8a2</Anchor>
              </Node>
              <Node>
               <Name>conscienceBackgroundColor</Name>
-              <Path>interface_conscience_object_view.html</Path>
+              <Path>class_conscience_object_view.html</Path>
               <Anchor>ab03dae535080d430a571a63ea4c25ac3</Anchor>
              </Node>
              <Node>
               <Name>dynamicPath</Name>
-              <Path>interface_conscience_object_view.html</Path>
+              <Path>class_conscience_object_view.html</Path>
               <Anchor>a418dc3a6dcdc4ddc7804c3dcc1b9ec8c</Anchor>
              </Node>
              <Node>
               <Name>totalGradients</Name>
-              <Path>interface_conscience_object_view.html</Path>
+              <Path>class_conscience_object_view.html</Path>
               <Anchor>ac37258ecdf372041e99dc52cad1983eb</Anchor>
              </Node>
              <Node>
               <Name>totalLayers</Name>
-              <Path>interface_conscience_object_view.html</Path>
+              <Path>class_conscience_object_view.html</Path>
               <Anchor>ae1c815ed12880c7eee8ac23f107d9216</Anchor>
              </Node>
             </Subnodes>
@@ -2224,26 +2224,26 @@
            </Node>
            <Node>
             <Name>ConscienceViewController</Name>
-            <Path>interface_conscience_view_controller.html</Path>
+            <Path>class_conscience_view_controller.html</Path>
             <Subnodes>
              <Node>
               <Name>dismissThoughtModal:</Name>
-              <Path>interface_conscience_view_controller.html</Path>
+              <Path>class_conscience_view_controller.html</Path>
               <Anchor>a863e0183f3f77e4d5afdaa41c4d83930</Anchor>
              </Node>
              <Node>
               <Name>returnToHome:</Name>
-              <Path>interface_conscience_view_controller.html</Path>
+              <Path>class_conscience_view_controller.html</Path>
               <Anchor>ad7d94b3f80ca40c32936bda42aac5d46</Anchor>
              </Node>
              <Node>
               <Name>selectChoice:</Name>
-              <Path>interface_conscience_view_controller.html</Path>
+              <Path>class_conscience_view_controller.html</Path>
               <Anchor>a1bc34664d94ffe05e29b7edb1888b4ef</Anchor>
              </Node>
              <Node>
               <Name>screenshot</Name>
-              <Path>interface_conscience_view_controller.html</Path>
+              <Path>class_conscience_view_controller.html</Path>
               <Anchor>a37724b6d8279d825f7c1833ae14ea275</Anchor>
              </Node>
             </Subnodes>
@@ -3180,16 +3180,16 @@
            </Node>
            <Node>
             <Name>HomeViewController</Name>
-            <Path>interface_home_view_controller.html</Path>
+            <Path>class_home_view_controller.html</Path>
             <Subnodes>
              <Node>
               <Name>initWithModel:modelManager:andConscience:</Name>
-              <Path>interface_home_view_controller.html</Path>
+              <Path>class_home_view_controller.html</Path>
               <Anchor>a672d704f47855736762a39057c1c4baf</Anchor>
              </Node>
              <Node>
               <Name>selectNextView:</Name>
-              <Path>interface_home_view_controller.html</Path>
+              <Path>class_home_view_controller.html</Path>
               <Anchor>a2751d3ad648e7cd667805287d5b8bbd5</Anchor>
              </Node>
             </Subnodes>
@@ -3688,11 +3688,11 @@
            </Node>
            <Node>
             <Name>MoraLifeAppDelegate</Name>
-            <Path>interface_mora_life_app_delegate.html</Path>
+            <Path>class_mora_life_app_delegate.html</Path>
             <Subnodes>
              <Node>
               <Name>window</Name>
-              <Path>interface_mora_life_app_delegate.html</Path>
+              <Path>class_mora_life_app_delegate.html</Path>
               <Anchor>add3dd2a244ce676325fe15c1aa138f2a</Anchor>
              </Node>
             </Subnodes>
@@ -3909,42 +3909,42 @@
            </Node>
            <Node>
             <Name>ReferenceBeliefDAO</Name>
-            <Path>interface_reference_belief_d_a_o.html</Path>
+            <Path>class_reference_belief_d_a_o.html</Path>
             <Subnodes>
              <Node>
               <Name>initWithKey:andModelManager:</Name>
-              <Path>interface_reference_belief_d_a_o.html</Path>
+              <Path>class_reference_belief_d_a_o.html</Path>
               <Anchor>ac05af5e656c9f77be95c9d3bed4b1aad</Anchor>
              </Node>
              <Node>
               <Name>read:</Name>
-              <Path>interface_reference_belief_d_a_o.html</Path>
+              <Path>class_reference_belief_d_a_o.html</Path>
               <Anchor>a762543458a756b1be5cbb8b8a043b813</Anchor>
              </Node>
             </Subnodes>
            </Node>
            <Node>
             <Name>ReferenceDetailViewController</Name>
-            <Path>interface_reference_detail_view_controller.html</Path>
+            <Path>class_reference_detail_view_controller.html</Path>
             <Subnodes>
              <Node>
               <Name>dismissReferenceModal:</Name>
-              <Path>interface_reference_detail_view_controller.html</Path>
+              <Path>class_reference_detail_view_controller.html</Path>
               <Anchor>a1f30070e3f14052bcd1ffd0a87977101</Anchor>
              </Node>
              <Node>
               <Name>initWithModel:modelManager:andConscience:</Name>
-              <Path>interface_reference_detail_view_controller.html</Path>
+              <Path>class_reference_detail_view_controller.html</Path>
               <Anchor>a1d8ad311543cdbb2406699b0f19d13fb</Anchor>
              </Node>
              <Node>
               <Name>showExternalURL:</Name>
-              <Path>interface_reference_detail_view_controller.html</Path>
+              <Path>class_reference_detail_view_controller.html</Path>
               <Anchor>a248acd1878047b601afb587f3df6f923</Anchor>
              </Node>
              <Node>
               <Name>showReferenceData:</Name>
-              <Path>interface_reference_detail_view_controller.html</Path>
+              <Path>class_reference_detail_view_controller.html</Path>
               <Anchor>a09c2d42f0872760a36d6dcecfd075340</Anchor>
              </Node>
             </Subnodes>
@@ -4127,16 +4127,16 @@
            </Node>
            <Node>
             <Name>ReferenceListViewController</Name>
-            <Path>interface_reference_list_view_controller.html</Path>
+            <Path>class_reference_list_view_controller.html</Path>
             <Subnodes>
              <Node>
               <Name>initWithModel:modelManager:andConscience:</Name>
-              <Path>interface_reference_list_view_controller.html</Path>
+              <Path>class_reference_list_view_controller.html</Path>
               <Anchor>a1204e5d0aadf402db96f22b9f15dc14d</Anchor>
              </Node>
              <Node>
               <Name>referenceType</Name>
-              <Path>interface_reference_list_view_controller.html</Path>
+              <Path>class_reference_list_view_controller.html</Path>
               <Anchor>af1218260fbcd7e19ffba47a5d0314644</Anchor>
              </Node>
             </Subnodes>
@@ -4463,7 +4463,7 @@
            </Node>
            <Node>
             <Name>ReferenceReport</Name>
-            <Path>interface_reference_report.html</Path>
+            <Path>class_reference_report.html</Path>
            </Node>
            <Node>
             <Name>ReferenceTableViewCell</Name>
@@ -4643,16 +4643,16 @@
            </Node>
            <Node>
             <Name>ReferenceTextDAO</Name>
-            <Path>interface_reference_text_d_a_o.html</Path>
+            <Path>class_reference_text_d_a_o.html</Path>
             <Subnodes>
              <Node>
               <Name>initWithKey:andModelManager:</Name>
-              <Path>interface_reference_text_d_a_o.html</Path>
+              <Path>class_reference_text_d_a_o.html</Path>
               <Anchor>ad7bf6239bacdfe15075331412d32a00e</Anchor>
              </Node>
              <Node>
               <Name>read:</Name>
-              <Path>interface_reference_text_d_a_o.html</Path>
+              <Path>class_reference_text_d_a_o.html</Path>
               <Anchor>ae549126f040040426e11b3a97643215a</Anchor>
              </Node>
             </Subnodes>
@@ -5246,46 +5246,46 @@
            </Node>
            <Node>
             <Name>UserConscience</Name>
-            <Path>interface_user_conscience.html</Path>
+            <Path>class_user_conscience.html</Path>
             <Subnodes>
              <Node>
               <Name>initWithModelManager:</Name>
-              <Path>interface_user_conscience.html</Path>
+              <Path>class_user_conscience.html</Path>
               <Anchor>a71683533aca8db73105c9bdf550756eb</Anchor>
              </Node>
              <Node>
               <Name>shakeConscience</Name>
-              <Path>interface_user_conscience.html</Path>
+              <Path>class_user_conscience.html</Path>
               <Anchor>a3b9d832ad58c0bb555f204a2f5f991c7</Anchor>
              </Node>
              <Node>
               <Name>conscienceCollection</Name>
-              <Path>interface_user_conscience.html</Path>
+              <Path>class_user_conscience.html</Path>
               <Anchor>af70cb430fbb8278b015080d952cbf1cf</Anchor>
              </Node>
              <Node>
               <Name>transientMood</Name>
-              <Path>interface_user_conscience.html</Path>
+              <Path>class_user_conscience.html</Path>
               <Anchor>a701c546bfc6682f9db013f5897d0da39</Anchor>
              </Node>
              <Node>
               <Name>userConscienceAccessories</Name>
-              <Path>interface_user_conscience.html</Path>
+              <Path>class_user_conscience.html</Path>
               <Anchor>a91d74d53a29e42bcb07397d6ab30168b</Anchor>
              </Node>
              <Node>
               <Name>userConscienceBody</Name>
-              <Path>interface_user_conscience.html</Path>
+              <Path>class_user_conscience.html</Path>
               <Anchor>af7576c60d03e6953d03c67ae76380fa6</Anchor>
              </Node>
              <Node>
               <Name>userConscienceMind</Name>
-              <Path>interface_user_conscience.html</Path>
+              <Path>class_user_conscience.html</Path>
               <Anchor>afe4261822201aeddf1d7f15211da0996</Anchor>
              </Node>
              <Node>
               <Name>userConscienceView</Name>
-              <Path>interface_user_conscience.html</Path>
+              <Path>class_user_conscience.html</Path>
               <Anchor>a7d9f9a8e45a84ccf93cb3741bf80a7a5</Anchor>
              </Node>
             </Subnodes>
@@ -5409,11 +5409,11 @@
            </Node>
            <Node>
             <Name>UserLuck</Name>
-            <Path>interface_user_luck.html</Path>
+            <Path>class_user_luck.html</Path>
             <Subnodes>
              <Node>
               <Name>entryModificationDate</Name>
-              <Path>interface_user_luck.html</Path>
+              <Path>class_user_luck.html</Path>
               <Anchor>a20c9e1e1122686794b2664ef0b143f48</Anchor>
              </Node>
             </Subnodes>
@@ -5477,7 +5477,7 @@
             <Subnodes>
              <Node>
               <Name>CharacterDAO</Name>
-              <Path>interface_character_d_a_o.html</Path>
+              <Path>class_character_d_a_o.html</Path>
              </Node>
              <Node>
               <Name>ConscienceAssetDAO</Name>
@@ -5497,7 +5497,7 @@
              </Node>
              <Node>
               <Name>ReferenceBeliefDAO</Name>
-              <Path>interface_reference_belief_d_a_o.html</Path>
+              <Path>class_reference_belief_d_a_o.html</Path>
              </Node>
              <Node>
               <Name>ReferencePersonDAO</Name>
@@ -5505,7 +5505,7 @@
              </Node>
              <Node>
               <Name>ReferenceTextDAO</Name>
-              <Path>interface_reference_text_d_a_o.html</Path>
+              <Path>class_reference_text_d_a_o.html</Path>
              </Node>
              <Node>
               <Name>UserCharacterDAO</Name>
@@ -5621,7 +5621,7 @@
                </Node>
                <Node>
                 <Name>ReferenceReport</Name>
-                <Path>interface_reference_report.html</Path>
+                <Path>class_reference_report.html</Path>
                </Node>
                <Node>
                 <Name>ReferenceText</Name>
@@ -5651,7 +5651,7 @@
                </Node>
                <Node>
                 <Name>UserLuck</Name>
-                <Path>interface_user_luck.html</Path>
+                <Path>class_user_luck.html</Path>
                </Node>
               </Subnodes>
              </Node>
@@ -5679,7 +5679,7 @@
              </Node>
              <Node>
               <Name>ConscienceBuilder</Name>
-              <Path>interface_conscience_builder.html</Path>
+              <Path>class_conscience_builder.html</Path>
              </Node>
              <Node>
               <Name>ConscienceGradient</Name>
@@ -5711,7 +5711,7 @@
              </Node>
              <Node>
               <Name>MoraLifeAppDelegate</Name>
-              <Path>interface_mora_life_app_delegate.html</Path>
+              <Path>class_mora_life_app_delegate.html</Path>
              </Node>
              <Node>
               <Name>ReferenceModel</Name>
@@ -5723,7 +5723,7 @@
              </Node>
              <Node>
               <Name>UserConscience</Name>
-              <Path>interface_user_conscience.html</Path>
+              <Path>class_user_conscience.html</Path>
              </Node>
              <Node>
               <Name>XMLParser</Name>
@@ -5797,15 +5797,15 @@
                 <Subnodes>
                  <Node>
                   <Name>ChoiceDetailViewController</Name>
-                  <Path>interface_choice_detail_view_controller.html</Path>
+                  <Path>class_choice_detail_view_controller.html</Path>
                  </Node>
                  <Node>
                   <Name>ChoiceHistoryViewController</Name>
-                  <Path>interface_choice_history_view_controller.html</Path>
+                  <Path>class_choice_history_view_controller.html</Path>
                  </Node>
                  <Node>
                   <Name>ChoiceInitViewController</Name>
-                  <Path>interface_choice_init_view_controller.html</Path>
+                  <Path>class_choice_init_view_controller.html</Path>
                  </Node>
                  <Node>
                   <Name>ChoiceListViewController</Name>
@@ -5813,7 +5813,7 @@
                  </Node>
                  <Node>
                   <Name>ChoiceModalViewController</Name>
-                  <Path>interface_choice_modal_view_controller.html</Path>
+                  <Path>class_choice_modal_view_controller.html</Path>
                  </Node>
                  <Node>
                   <Name>ChoiceViewController</Name>
@@ -5821,11 +5821,11 @@
                  </Node>
                  <Node>
                   <Name>ConscienceAcceptViewController</Name>
-                  <Path>interface_conscience_accept_view_controller.html</Path>
+                  <Path>class_conscience_accept_view_controller.html</Path>
                  </Node>
                  <Node>
                   <Name>ConscienceAccessoryViewController</Name>
-                  <Path>interface_conscience_accessory_view_controller.html</Path>
+                  <Path>class_conscience_accessory_view_controller.html</Path>
                  </Node>
                  <Node>
                   <Name>ConscienceListViewController</Name>
@@ -5833,7 +5833,7 @@
                  </Node>
                  <Node>
                   <Name>ConscienceViewController</Name>
-                  <Path>interface_conscience_view_controller.html</Path>
+                  <Path>class_conscience_view_controller.html</Path>
                  </Node>
                  <Node>
                   <Name>DilemmaListViewController</Name>
@@ -5845,7 +5845,7 @@
                  </Node>
                  <Node>
                   <Name>HomeViewController</Name>
-                  <Path>interface_home_view_controller.html</Path>
+                  <Path>class_home_view_controller.html</Path>
                  </Node>
                  <Node>
                   <Name>IntroViewController</Name>
@@ -5853,11 +5853,11 @@
                  </Node>
                  <Node>
                   <Name>ReferenceDetailViewController</Name>
-                  <Path>interface_reference_detail_view_controller.html</Path>
+                  <Path>class_reference_detail_view_controller.html</Path>
                  </Node>
                  <Node>
                   <Name>ReferenceListViewController</Name>
-                  <Path>interface_reference_list_view_controller.html</Path>
+                  <Path>class_reference_list_view_controller.html</Path>
                  </Node>
                  <Node>
                   <Name>ReferenceViewController</Name>
@@ -5919,7 +5919,7 @@
             <Subnodes>
              <Node>
               <Name>ReferenceDetailViewController</Name>
-              <Path>interface_reference_detail_view_controller.html</Path>
+              <Path>class_reference_detail_view_controller.html</Path>
              </Node>
             </Subnodes>
            </Node>
@@ -5929,7 +5929,7 @@
             <Subnodes>
              <Node>
               <Name>MoraLifeAppDelegate</Name>
-              <Path>interface_mora_life_app_delegate.html</Path>
+              <Path>class_mora_life_app_delegate.html</Path>
              </Node>
             </Subnodes>
            </Node>
@@ -5959,7 +5959,7 @@
              </Node>
              <Node>
               <Name>ChoiceModalViewController</Name>
-              <Path>interface_choice_modal_view_controller.html</Path>
+              <Path>class_choice_modal_view_controller.html</Path>
              </Node>
              <Node>
               <Name>ConscienceListViewController</Name>
@@ -5971,7 +5971,7 @@
              </Node>
              <Node>
               <Name>ReferenceListViewController</Name>
-              <Path>interface_reference_list_view_controller.html</Path>
+              <Path>class_reference_list_view_controller.html</Path>
              </Node>
             </Subnodes>
            </Node>
@@ -6015,7 +6015,7 @@
              </Node>
              <Node>
               <Name>ChoiceModalViewController</Name>
-              <Path>interface_choice_modal_view_controller.html</Path>
+              <Path>class_choice_modal_view_controller.html</Path>
              </Node>
              <Node>
               <Name>ConscienceListViewController</Name>
@@ -6027,7 +6027,7 @@
              </Node>
              <Node>
               <Name>ReferenceListViewController</Name>
-              <Path>interface_reference_list_view_controller.html</Path>
+              <Path>class_reference_list_view_controller.html</Path>
              </Node>
              <Node>
               <Name>ReportPieViewController</Name>
@@ -6049,7 +6049,7 @@
              </Node>
              <Node>
               <Name>ChoiceModalViewController</Name>
-              <Path>interface_choice_modal_view_controller.html</Path>
+              <Path>class_choice_modal_view_controller.html</Path>
              </Node>
              <Node>
               <Name>ConscienceListViewController</Name>
@@ -6061,7 +6061,7 @@
              </Node>
              <Node>
               <Name>ReferenceListViewController</Name>
-              <Path>interface_reference_list_view_controller.html</Path>
+              <Path>class_reference_list_view_controller.html</Path>
              </Node>
              <Node>
               <Name>ReportPieViewController</Name>
@@ -6085,7 +6085,7 @@
             <Subnodes>
              <Node>
               <Name>ChoiceDetailViewController</Name>
-              <Path>interface_choice_detail_view_controller.html</Path>
+              <Path>class_choice_detail_view_controller.html</Path>
              </Node>
              <Node>
               <Name>ChoiceViewController</Name>
@@ -6109,7 +6109,7 @@
             <Subnodes>
              <Node>
               <Name>AccessoryObjectView</Name>
-              <Path>interface_accessory_object_view.html</Path>
+              <Path>class_accessory_object_view.html</Path>
              </Node>
              <Node>
               <Name>ConscienceBubbleView</Name>
@@ -6117,7 +6117,7 @@
              </Node>
              <Node>
               <Name>ConscienceObjectView</Name>
-              <Path>interface_conscience_object_view.html</Path>
+              <Path>class_conscience_object_view.html</Path>
              </Node>
              <Node>
               <Name>ConscienceView</Name>
@@ -6561,7 +6561,7 @@
                   <Subnodes>
                    <Node>
                     <Name>ConscienceBuilder</Name>
-                    <Path>interface_conscience_builder.html</Path>
+                    <Path>class_conscience_builder.html</Path>
                     <Subnodes>
                     </Subnodes>
                    </Node>
@@ -6630,46 +6630,46 @@
                   <Subnodes>
                    <Node>
                     <Name>UserConscience</Name>
-                    <Path>interface_user_conscience.html</Path>
+                    <Path>class_user_conscience.html</Path>
                     <Subnodes>
                      <Node>
                       <Name>initWithModelManager:</Name>
-                      <Path>interface_user_conscience.html</Path>
+                      <Path>class_user_conscience.html</Path>
                       <Anchor>a71683533aca8db73105c9bdf550756eb</Anchor>
                      </Node>
                      <Node>
                       <Name>shakeConscience</Name>
-                      <Path>interface_user_conscience.html</Path>
+                      <Path>class_user_conscience.html</Path>
                       <Anchor>a3b9d832ad58c0bb555f204a2f5f991c7</Anchor>
                      </Node>
                      <Node>
                       <Name>conscienceCollection</Name>
-                      <Path>interface_user_conscience.html</Path>
+                      <Path>class_user_conscience.html</Path>
                       <Anchor>af70cb430fbb8278b015080d952cbf1cf</Anchor>
                      </Node>
                      <Node>
                       <Name>transientMood</Name>
-                      <Path>interface_user_conscience.html</Path>
+                      <Path>class_user_conscience.html</Path>
                       <Anchor>a701c546bfc6682f9db013f5897d0da39</Anchor>
                      </Node>
                      <Node>
                       <Name>userConscienceAccessories</Name>
-                      <Path>interface_user_conscience.html</Path>
+                      <Path>class_user_conscience.html</Path>
                       <Anchor>a91d74d53a29e42bcb07397d6ab30168b</Anchor>
                      </Node>
                      <Node>
                       <Name>userConscienceBody</Name>
-                      <Path>interface_user_conscience.html</Path>
+                      <Path>class_user_conscience.html</Path>
                       <Anchor>af7576c60d03e6953d03c67ae76380fa6</Anchor>
                      </Node>
                      <Node>
                       <Name>userConscienceMind</Name>
-                      <Path>interface_user_conscience.html</Path>
+                      <Path>class_user_conscience.html</Path>
                       <Anchor>afe4261822201aeddf1d7f15211da0996</Anchor>
                      </Node>
                      <Node>
                       <Name>userConscienceView</Name>
-                      <Path>interface_user_conscience.html</Path>
+                      <Path>class_user_conscience.html</Path>
                       <Anchor>a7d9f9a8e45a84ccf93cb3741bf80a7a5</Anchor>
                      </Node>
                     </Subnodes>
@@ -6796,26 +6796,26 @@
                   <Subnodes>
                    <Node>
                     <Name>ChoiceDetailViewController</Name>
-                    <Path>interface_choice_detail_view_controller.html</Path>
+                    <Path>class_choice_detail_view_controller.html</Path>
                     <Subnodes>
                      <Node>
                       <Name>cancelTapped</Name>
-                      <Path>interface_choice_detail_view_controller.html</Path>
+                      <Path>class_choice_detail_view_controller.html</Path>
                       <Anchor>a7d90ad0b6fc3bebee1212f2ba2964b8c</Anchor>
                      </Node>
                      <Node>
                       <Name>influenceChange:</Name>
-                      <Path>interface_choice_detail_view_controller.html</Path>
+                      <Path>class_choice_detail_view_controller.html</Path>
                       <Anchor>aedf0b335a211a28d039f15827e9652c0</Anchor>
                      </Node>
                      <Node>
                       <Name>saveTapped:</Name>
-                      <Path>interface_choice_detail_view_controller.html</Path>
+                      <Path>class_choice_detail_view_controller.html</Path>
                       <Anchor>a9a433dcdb6d5adc92aaade994bead867</Anchor>
                      </Node>
                      <Node>
                       <Name>selectInfluence:</Name>
-                      <Path>interface_choice_detail_view_controller.html</Path>
+                      <Path>class_choice_detail_view_controller.html</Path>
                       <Anchor>aab550456e76b1a30f351bd756aed69e8</Anchor>
                      </Node>
                     </Subnodes>
@@ -6930,21 +6930,21 @@
                   <Subnodes>
                    <Node>
                     <Name>ChoiceHistoryViewController</Name>
-                    <Path>interface_choice_history_view_controller.html</Path>
+                    <Path>class_choice_history_view_controller.html</Path>
                     <Subnodes>
                      <Node>
                       <Name>dismissChoiceModal:</Name>
-                      <Path>interface_choice_history_view_controller.html</Path>
+                      <Path>class_choice_history_view_controller.html</Path>
                       <Anchor>a139f8cbe4b6eee78ad6c1ce3fc007a79</Anchor>
                      </Node>
                      <Node>
                       <Name>initWithModel:modelManager:andConscience:</Name>
-                      <Path>interface_choice_history_view_controller.html</Path>
+                      <Path>class_choice_history_view_controller.html</Path>
                       <Anchor>afb26becf573e8135be13906dc9ad256c</Anchor>
                      </Node>
                      <Node>
                       <Name>screenshot</Name>
-                      <Path>interface_choice_history_view_controller.html</Path>
+                      <Path>class_choice_history_view_controller.html</Path>
                       <Anchor>a2ccdcb3bf97f0c476b34e60a762a61ee</Anchor>
                      </Node>
                     </Subnodes>
@@ -7054,11 +7054,11 @@
                   <Subnodes>
                    <Node>
                     <Name>ChoiceInitViewController</Name>
-                    <Path>interface_choice_init_view_controller.html</Path>
+                    <Path>class_choice_init_view_controller.html</Path>
                     <Subnodes>
                      <Node>
                       <Name>selectChoiceType:</Name>
-                      <Path>interface_choice_init_view_controller.html</Path>
+                      <Path>class_choice_init_view_controller.html</Path>
                       <Anchor>a6a08b305cbd6da183756eac79a1bb214</Anchor>
                      </Node>
                     </Subnodes>
@@ -7289,16 +7289,16 @@
                   <Subnodes>
                    <Node>
                     <Name>ChoiceModalViewController</Name>
-                    <Path>interface_choice_modal_view_controller.html</Path>
+                    <Path>class_choice_modal_view_controller.html</Path>
                     <Subnodes>
                      <Node>
                       <Name>dismissChoiceModal:</Name>
-                      <Path>interface_choice_modal_view_controller.html</Path>
+                      <Path>class_choice_modal_view_controller.html</Path>
                       <Anchor>af8ecbc8b2cbf20e70cd71d300ff296fb</Anchor>
                      </Node>
                      <Node>
                       <Name>screenshot</Name>
-                      <Path>interface_choice_modal_view_controller.html</Path>
+                      <Path>class_choice_modal_view_controller.html</Path>
                       <Anchor>a90951e3851ddccb66de571ad7f5199d2</Anchor>
                      </Node>
                     </Subnodes>
@@ -7632,26 +7632,26 @@
                   <Subnodes>
                    <Node>
                     <Name>ConscienceAcceptViewController</Name>
-                    <Path>interface_conscience_accept_view_controller.html</Path>
+                    <Path>class_conscience_accept_view_controller.html</Path>
                     <Subnodes>
                      <Node>
                       <Name>acceptThoughtModal:</Name>
-                      <Path>interface_conscience_accept_view_controller.html</Path>
+                      <Path>class_conscience_accept_view_controller.html</Path>
                       <Anchor>a766b61529949dc7a1a5110b62bb10be5</Anchor>
                      </Node>
                      <Node>
                       <Name>accessorySlot</Name>
-                      <Path>interface_conscience_accept_view_controller.html</Path>
+                      <Path>class_conscience_accept_view_controller.html</Path>
                       <Anchor>a0029f6d4cb8e280186b1bf78b3960346</Anchor>
                      </Node>
                      <Node>
                       <Name>assetSelection</Name>
-                      <Path>interface_conscience_accept_view_controller.html</Path>
+                      <Path>class_conscience_accept_view_controller.html</Path>
                       <Anchor>a6fc39a7fa8836af8693a1d085a4ae723</Anchor>
                      </Node>
                      <Node>
                       <Name>screenshot</Name>
-                      <Path>interface_conscience_accept_view_controller.html</Path>
+                      <Path>class_conscience_accept_view_controller.html</Path>
                       <Anchor>a6b11756d7100d48df2b31a111b0a3f69</Anchor>
                      </Node>
                     </Subnodes>
@@ -7791,21 +7791,21 @@
                   <Subnodes>
                    <Node>
                     <Name>ConscienceAccessoryViewController</Name>
-                    <Path>interface_conscience_accessory_view_controller.html</Path>
+                    <Path>class_conscience_accessory_view_controller.html</Path>
                     <Subnodes>
                      <Node>
                       <Name>dismissAccessoryModal</Name>
-                      <Path>interface_conscience_accessory_view_controller.html</Path>
+                      <Path>class_conscience_accessory_view_controller.html</Path>
                       <Anchor>a5cc8cf67ad9aa7f7fadc564957dfaf80</Anchor>
                      </Node>
                      <Node>
                       <Name>selectChoice:</Name>
-                      <Path>interface_conscience_accessory_view_controller.html</Path>
+                      <Path>class_conscience_accessory_view_controller.html</Path>
                       <Anchor>a98714ab8c43214b3f03bda27d1750f76</Anchor>
                      </Node>
                      <Node>
                       <Name>screenshot</Name>
-                      <Path>interface_conscience_accessory_view_controller.html</Path>
+                      <Path>class_conscience_accessory_view_controller.html</Path>
                       <Anchor>ad4597b3251d890e36633f813faa87c46</Anchor>
                      </Node>
                     </Subnodes>
@@ -8223,26 +8223,26 @@
                   <Subnodes>
                    <Node>
                     <Name>ConscienceViewController</Name>
-                    <Path>interface_conscience_view_controller.html</Path>
+                    <Path>class_conscience_view_controller.html</Path>
                     <Subnodes>
                      <Node>
                       <Name>dismissThoughtModal:</Name>
-                      <Path>interface_conscience_view_controller.html</Path>
+                      <Path>class_conscience_view_controller.html</Path>
                       <Anchor>a863e0183f3f77e4d5afdaa41c4d83930</Anchor>
                      </Node>
                      <Node>
                       <Name>returnToHome:</Name>
-                      <Path>interface_conscience_view_controller.html</Path>
+                      <Path>class_conscience_view_controller.html</Path>
                       <Anchor>ad7d94b3f80ca40c32936bda42aac5d46</Anchor>
                      </Node>
                      <Node>
                       <Name>selectChoice:</Name>
-                      <Path>interface_conscience_view_controller.html</Path>
+                      <Path>class_conscience_view_controller.html</Path>
                       <Anchor>a1bc34664d94ffe05e29b7edb1888b4ef</Anchor>
                      </Node>
                      <Node>
                       <Name>screenshot</Name>
-                      <Path>interface_conscience_view_controller.html</Path>
+                      <Path>class_conscience_view_controller.html</Path>
                       <Anchor>a37724b6d8279d825f7c1833ae14ea275</Anchor>
                      </Node>
                     </Subnodes>
@@ -8879,16 +8879,16 @@
                   <Subnodes>
                    <Node>
                     <Name>HomeViewController</Name>
-                    <Path>interface_home_view_controller.html</Path>
+                    <Path>class_home_view_controller.html</Path>
                     <Subnodes>
                      <Node>
                       <Name>initWithModel:modelManager:andConscience:</Name>
-                      <Path>interface_home_view_controller.html</Path>
+                      <Path>class_home_view_controller.html</Path>
                       <Anchor>a672d704f47855736762a39057c1c4baf</Anchor>
                      </Node>
                      <Node>
                       <Name>selectNextView:</Name>
-                      <Path>interface_home_view_controller.html</Path>
+                      <Path>class_home_view_controller.html</Path>
                       <Anchor>a2751d3ad648e7cd667805287d5b8bbd5</Anchor>
                      </Node>
                     </Subnodes>
@@ -9349,26 +9349,26 @@
                   <Subnodes>
                    <Node>
                     <Name>ReferenceDetailViewController</Name>
-                    <Path>interface_reference_detail_view_controller.html</Path>
+                    <Path>class_reference_detail_view_controller.html</Path>
                     <Subnodes>
                      <Node>
                       <Name>dismissReferenceModal:</Name>
-                      <Path>interface_reference_detail_view_controller.html</Path>
+                      <Path>class_reference_detail_view_controller.html</Path>
                       <Anchor>a1f30070e3f14052bcd1ffd0a87977101</Anchor>
                      </Node>
                      <Node>
                       <Name>initWithModel:modelManager:andConscience:</Name>
-                      <Path>interface_reference_detail_view_controller.html</Path>
+                      <Path>class_reference_detail_view_controller.html</Path>
                       <Anchor>a1d8ad311543cdbb2406699b0f19d13fb</Anchor>
                      </Node>
                      <Node>
                       <Name>showExternalURL:</Name>
-                      <Path>interface_reference_detail_view_controller.html</Path>
+                      <Path>class_reference_detail_view_controller.html</Path>
                       <Anchor>a248acd1878047b601afb587f3df6f923</Anchor>
                      </Node>
                      <Node>
                       <Name>showReferenceData:</Name>
-                      <Path>interface_reference_detail_view_controller.html</Path>
+                      <Path>class_reference_detail_view_controller.html</Path>
                       <Anchor>a09c2d42f0872760a36d6dcecfd075340</Anchor>
                      </Node>
                     </Subnodes>
@@ -9563,16 +9563,16 @@
                   <Subnodes>
                    <Node>
                     <Name>ReferenceListViewController</Name>
-                    <Path>interface_reference_list_view_controller.html</Path>
+                    <Path>class_reference_list_view_controller.html</Path>
                     <Subnodes>
                      <Node>
                       <Name>initWithModel:modelManager:andConscience:</Name>
-                      <Path>interface_reference_list_view_controller.html</Path>
+                      <Path>class_reference_list_view_controller.html</Path>
                       <Anchor>a1204e5d0aadf402db96f22b9f15dc14d</Anchor>
                      </Node>
                      <Node>
                       <Name>referenceType</Name>
-                      <Path>interface_reference_list_view_controller.html</Path>
+                      <Path>class_reference_list_view_controller.html</Path>
                       <Anchor>af1218260fbcd7e19ffba47a5d0314644</Anchor>
                      </Node>
                     </Subnodes>
@@ -10013,16 +10013,16 @@
                     <Subnodes>
                      <Node>
                       <Name>CharacterDAO</Name>
-                      <Path>interface_character_d_a_o.html</Path>
+                      <Path>class_character_d_a_o.html</Path>
                       <Subnodes>
                        <Node>
                         <Name>initWithKey:andModelManager:</Name>
-                        <Path>interface_character_d_a_o.html</Path>
+                        <Path>class_character_d_a_o.html</Path>
                         <Anchor>aafb5762ffeb1587e7a4e9e3e7f421f0e</Anchor>
                        </Node>
                        <Node>
                         <Name>read:</Name>
-                        <Path>interface_character_d_a_o.html</Path>
+                        <Path>class_character_d_a_o.html</Path>
                         <Anchor>a80dd04c2471edbf66e3e0300eecee664</Anchor>
                        </Node>
                       </Subnodes>
@@ -10143,16 +10143,16 @@
                     <Subnodes>
                      <Node>
                       <Name>ReferenceBeliefDAO</Name>
-                      <Path>interface_reference_belief_d_a_o.html</Path>
+                      <Path>class_reference_belief_d_a_o.html</Path>
                       <Subnodes>
                        <Node>
                         <Name>initWithKey:andModelManager:</Name>
-                        <Path>interface_reference_belief_d_a_o.html</Path>
+                        <Path>class_reference_belief_d_a_o.html</Path>
                         <Anchor>ac05af5e656c9f77be95c9d3bed4b1aad</Anchor>
                        </Node>
                        <Node>
                         <Name>read:</Name>
-                        <Path>interface_reference_belief_d_a_o.html</Path>
+                        <Path>class_reference_belief_d_a_o.html</Path>
                         <Anchor>a762543458a756b1be5cbb8b8a043b813</Anchor>
                        </Node>
                       </Subnodes>
@@ -10195,16 +10195,16 @@
                     <Subnodes>
                      <Node>
                       <Name>ReferenceTextDAO</Name>
-                      <Path>interface_reference_text_d_a_o.html</Path>
+                      <Path>class_reference_text_d_a_o.html</Path>
                       <Subnodes>
                        <Node>
                         <Name>initWithKey:andModelManager:</Name>
-                        <Path>interface_reference_text_d_a_o.html</Path>
+                        <Path>class_reference_text_d_a_o.html</Path>
                         <Anchor>ad7bf6239bacdfe15075331412d32a00e</Anchor>
                        </Node>
                        <Node>
                         <Name>read:</Name>
-                        <Path>interface_reference_text_d_a_o.html</Path>
+                        <Path>class_reference_text_d_a_o.html</Path>
                         <Anchor>ae549126f040040426e11b3a97643215a</Anchor>
                        </Node>
                       </Subnodes>
@@ -10816,7 +10816,7 @@
                     <Subnodes>
                      <Node>
                       <Name>ReferenceReport</Name>
-                      <Path>interface_reference_report.html</Path>
+                      <Path>class_reference_report.html</Path>
                      </Node>
                     </Subnodes>
                    </Node>
@@ -11195,11 +11195,11 @@
                     <Subnodes>
                      <Node>
                       <Name>UserLuck</Name>
-                      <Path>interface_user_luck.html</Path>
+                      <Path>class_user_luck.html</Path>
                       <Subnodes>
                        <Node>
                         <Name>entryModificationDate</Name>
-                        <Path>interface_user_luck.html</Path>
+                        <Path>class_user_luck.html</Path>
                         <Anchor>a20c9e1e1122686794b2664ef0b143f48</Anchor>
                        </Node>
                       </Subnodes>
@@ -12897,11 +12897,11 @@
                   <Subnodes>
                    <Node>
                     <Name>AccessoryObjectView</Name>
-                    <Path>interface_accessory_object_view.html</Path>
+                    <Path>class_accessory_object_view.html</Path>
                     <Subnodes>
                      <Node>
                       <Name>accessoryFilename</Name>
-                      <Path>interface_accessory_object_view.html</Path>
+                      <Path>class_accessory_object_view.html</Path>
                       <Anchor>adf4fc2397308b85c4aa164ebe69525b5</Anchor>
                      </Node>
                     </Subnodes>
@@ -13080,31 +13080,31 @@
                   <Subnodes>
                    <Node>
                     <Name>ConscienceObjectView</Name>
-                    <Path>interface_conscience_object_view.html</Path>
+                    <Path>class_conscience_object_view.html</Path>
                     <Subnodes>
                      <Node>
                       <Name>createPathFromPoints:WithInstructions:ForPath:</Name>
-                      <Path>interface_conscience_object_view.html</Path>
+                      <Path>class_conscience_object_view.html</Path>
                       <Anchor>a71845b4d598981e016f97c54e3b0d8a2</Anchor>
                      </Node>
                      <Node>
                       <Name>conscienceBackgroundColor</Name>
-                      <Path>interface_conscience_object_view.html</Path>
+                      <Path>class_conscience_object_view.html</Path>
                       <Anchor>ab03dae535080d430a571a63ea4c25ac3</Anchor>
                      </Node>
                      <Node>
                       <Name>dynamicPath</Name>
-                      <Path>interface_conscience_object_view.html</Path>
+                      <Path>class_conscience_object_view.html</Path>
                       <Anchor>a418dc3a6dcdc4ddc7804c3dcc1b9ec8c</Anchor>
                      </Node>
                      <Node>
                       <Name>totalGradients</Name>
-                      <Path>interface_conscience_object_view.html</Path>
+                      <Path>class_conscience_object_view.html</Path>
                       <Anchor>ac37258ecdf372041e99dc52cad1983eb</Anchor>
                      </Node>
                      <Node>
                       <Name>totalLayers</Name>
-                      <Path>interface_conscience_object_view.html</Path>
+                      <Path>class_conscience_object_view.html</Path>
                       <Anchor>ae1c815ed12880c7eee8ac23f107d9216</Anchor>
                      </Node>
                     </Subnodes>
@@ -14397,11 +14397,11 @@
                 <Subnodes>
                  <Node>
                   <Name>MoraLifeAppDelegate</Name>
-                  <Path>interface_mora_life_app_delegate.html</Path>
+                  <Path>class_mora_life_app_delegate.html</Path>
                   <Subnodes>
                    <Node>
                     <Name>window</Name>
-                    <Path>interface_mora_life_app_delegate.html</Path>
+                    <Path>class_mora_life_app_delegate.html</Path>
                     <Anchor>add3dd2a244ce676325fe15c1aa138f2a</Anchor>
                    </Node>
                   </Subnodes>

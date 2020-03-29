@@ -1,6 +1,6 @@
 var searchData=
 [
-  ['acceptthoughtmodal_3a_1500',['acceptThoughtModal:',['../interface_conscience_accept_view_controller.html#a766b61529949dc7a1a5110b62bb10be5',1,'ConscienceAcceptViewController']]],
+  ['acceptthoughtmodal_3a_1500',['acceptThoughtModal:',['../class_conscience_accept_view_controller.html#a766b61529949dc7a1a5110b62bb10be5',1,'ConscienceAcceptViewController']]],
   ['addbelief_3a_1501',['addBelief:',['../category_reference_text_07_core_data_generated_accessors_08.html#acc1b49d40c2335f3aa9abbba0a5d5e8b',1,'ReferenceText(CoreDataGeneratedAccessors)::addBelief:()'],['../interface_reference_text.html#acc1b49d40c2335f3aa9abbba0a5d5e8b',1,'ReferenceText::addBelief:()']]],
   ['addbeliefobject_3a_1502',['addBeliefObject:',['../category_reference_text_07_core_data_generated_accessors_08.html#a1476f1733aef39956be636ece0fae9e6',1,'ReferenceText(CoreDataGeneratedAccessors)::addBeliefObject:()'],['../interface_reference_text.html#a1476f1733aef39956be636ece0fae9e6',1,'ReferenceText::addBeliefObject:()']]],
   ['addchildrenreference_3a_1503',['addChildrenReference:',['../category_reference_text_07_core_data_generated_accessors_08.html#a1e063a63fd87c35f471a3c32bdef5d12',1,'ReferenceText(CoreDataGeneratedAccessors)::addChildrenReference:()'],['../interface_reference_text.html#a1e063a63fd87c35f471a3c32bdef5d12',1,'ReferenceText::addChildrenReference:()']]],

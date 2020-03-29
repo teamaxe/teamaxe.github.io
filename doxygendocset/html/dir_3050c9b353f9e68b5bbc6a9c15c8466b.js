@@ -1,19 +1,19 @@
 var dir_3050c9b353f9e68b5bbc6a9c15c8466b =
 [
     [ "ChoiceDetailViewController.h", "_choice_detail_view_controller_8h.html", [
-      [ "ChoiceDetailViewController", "interface_choice_detail_view_controller.html", "interface_choice_detail_view_controller" ]
+      [ "ChoiceDetailViewController", "class_choice_detail_view_controller.html", "class_choice_detail_view_controller" ]
     ] ],
     [ "ChoiceDetailViewController.m", "_choice_detail_view_controller_8m.html", [
       [ "ChoiceDetailViewController()", "category_choice_detail_view_controller_07_08.html", "category_choice_detail_view_controller_07_08" ]
     ] ],
     [ "ChoiceHistoryViewController.h", "_choice_history_view_controller_8h.html", [
-      [ "ChoiceHistoryViewController", "interface_choice_history_view_controller.html", "interface_choice_history_view_controller" ]
+      [ "ChoiceHistoryViewController", "class_choice_history_view_controller.html", "class_choice_history_view_controller" ]
     ] ],
     [ "ChoiceHistoryViewController.m", "_choice_history_view_controller_8m.html", [
       [ "ChoiceHistoryViewController()", "category_choice_history_view_controller_07_08.html", "category_choice_history_view_controller_07_08" ]
     ] ],
     [ "ChoiceInitViewController.h", "_choice_init_view_controller_8h.html", [
-      [ "ChoiceInitViewController", "interface_choice_init_view_controller.html", "interface_choice_init_view_controller" ]
+      [ "ChoiceInitViewController", "class_choice_init_view_controller.html", "class_choice_init_view_controller" ]
     ] ],
     [ "ChoiceInitViewController.m", "_choice_init_view_controller_8m.html", "_choice_init_view_controller_8m" ],
     [ "ChoiceListViewController.h", "_choice_list_view_controller_8h.html", [
@@ -23,7 +23,7 @@ var dir_3050c9b353f9e68b5bbc6a9c15c8466b =
       [ "ChoiceListViewController()", "category_choice_list_view_controller_07_08.html", "category_choice_list_view_controller_07_08" ]
     ] ],
     [ "ChoiceModalViewController.h", "_choice_modal_view_controller_8h.html", [
-      [ "ChoiceModalViewController", "interface_choice_modal_view_controller.html", "interface_choice_modal_view_controller" ]
+      [ "ChoiceModalViewController", "class_choice_modal_view_controller.html", "class_choice_modal_view_controller" ]
     ] ],
     [ "ChoiceModalViewController.m", "_choice_modal_view_controller_8m.html", [
       [ "ChoiceModalViewController()", "category_choice_modal_view_controller_07_08.html", "category_choice_modal_view_controller_07_08" ]
@@ -35,13 +35,13 @@ var dir_3050c9b353f9e68b5bbc6a9c15c8466b =
       [ "ChoiceViewController()", "category_choice_view_controller_07_08.html", "category_choice_view_controller_07_08" ]
     ] ],
     [ "ConscienceAcceptViewController.h", "_conscience_accept_view_controller_8h.html", [
-      [ "ConscienceAcceptViewController", "interface_conscience_accept_view_controller.html", "interface_conscience_accept_view_controller" ]
+      [ "ConscienceAcceptViewController", "class_conscience_accept_view_controller.html", "class_conscience_accept_view_controller" ]
     ] ],
     [ "ConscienceAcceptViewController.m", "_conscience_accept_view_controller_8m.html", [
       [ "ConscienceAcceptViewController()", "category_conscience_accept_view_controller_07_08.html", "category_conscience_accept_view_controller_07_08" ]
     ] ],
     [ "ConscienceAccessoryViewController.h", "_conscience_accessory_view_controller_8h.html", [
-      [ "ConscienceAccessoryViewController", "interface_conscience_accessory_view_controller.html", "interface_conscience_accessory_view_controller" ]
+      [ "ConscienceAccessoryViewController", "class_conscience_accessory_view_controller.html", "class_conscience_accessory_view_controller" ]
     ] ],
     [ "ConscienceAccessoryViewController.m", "_conscience_accessory_view_controller_8m.html", "_conscience_accessory_view_controller_8m" ],
     [ "ConscienceHelpViewController.h", "_conscience_help_view_controller_8h.html", [
@@ -57,7 +57,7 @@ var dir_3050c9b353f9e68b5bbc6a9c15c8466b =
       [ "ConscienceListViewController()", "category_conscience_list_view_controller_07_08.html", "category_conscience_list_view_controller_07_08" ]
     ] ],
     [ "ConscienceViewController.h", "_conscience_view_controller_8h.html", [
-      [ "ConscienceViewController", "interface_conscience_view_controller.html", "interface_conscience_view_controller" ]
+      [ "ConscienceViewController", "class_conscience_view_controller.html", "class_conscience_view_controller" ]
     ] ],
     [ "ConscienceViewController.m", "_conscience_view_controller_8m.html", [
       [ "ConscienceViewController()", "category_conscience_view_controller_07_08.html", "category_conscience_view_controller_07_08" ]
@@ -73,7 +73,7 @@ var dir_3050c9b353f9e68b5bbc6a9c15c8466b =
     ] ],
     [ "DilemmaViewController.m", "_dilemma_view_controller_8m.html", "_dilemma_view_controller_8m" ],
     [ "HomeViewController.h", "_home_view_controller_8h.html", [
-      [ "HomeViewController", "interface_home_view_controller.html", "interface_home_view_controller" ]
+      [ "HomeViewController", "class_home_view_controller.html", "class_home_view_controller" ]
     ] ],
     [ "HomeViewController.m", "_home_view_controller_8m.html", "_home_view_controller_8m" ],
     [ "IntroViewController.h", "_intro_view_controller_8h.html", [
@@ -88,13 +88,13 @@ var dir_3050c9b353f9e68b5bbc6a9c15c8466b =
       [ "MoraLifeViewController()", "category_mora_life_view_controller_07_08.html", "category_mora_life_view_controller_07_08" ]
     ] ],
     [ "ReferenceDetailViewController.h", "_reference_detail_view_controller_8h.html", [
-      [ "ReferenceDetailViewController", "interface_reference_detail_view_controller.html", "interface_reference_detail_view_controller" ]
+      [ "ReferenceDetailViewController", "class_reference_detail_view_controller.html", "class_reference_detail_view_controller" ]
     ] ],
     [ "ReferenceDetailViewController.m", "_reference_detail_view_controller_8m.html", [
       [ "ReferenceDetailViewController()", "category_reference_detail_view_controller_07_08.html", "category_reference_detail_view_controller_07_08" ]
     ] ],
     [ "ReferenceListViewController.h", "_reference_list_view_controller_8h.html", [
-      [ "ReferenceListViewController", "interface_reference_list_view_controller.html", "interface_reference_list_view_controller" ]
+      [ "ReferenceListViewController", "class_reference_list_view_controller.html", "class_reference_list_view_controller" ]
     ] ],
     [ "ReferenceListViewController.m", "_reference_list_view_controller_8m.html", [
       [ "ReferenceListViewController()", "category_reference_list_view_controller_07_08.html", "category_reference_list_view_controller_07_08" ]

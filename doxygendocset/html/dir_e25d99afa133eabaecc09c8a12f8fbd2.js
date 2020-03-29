@@ -3,7 +3,7 @@ var dir_e25d99afa133eabaecc09c8a12f8fbd2 =
     [ "BaseDAO.h", "_base_d_a_o_8h.html", "_base_d_a_o_8h" ],
     [ "BaseDAO.m", "_base_d_a_o_8m.html", "_base_d_a_o_8m" ],
     [ "CharacterDAO.h", "_character_d_a_o_8h.html", [
-      [ "CharacterDAO", "interface_character_d_a_o.html", "interface_character_d_a_o" ]
+      [ "CharacterDAO", "class_character_d_a_o.html", "class_character_d_a_o" ]
     ] ],
     [ "CharacterDAO.m", "_character_d_a_o_8m.html", null ],
     [ "ConscienceAssetDAO.h", "_conscience_asset_d_a_o_8h.html", [
@@ -23,7 +23,7 @@ var dir_e25d99afa133eabaecc09c8a12f8fbd2 =
     ] ],
     [ "ReferenceAssetDAO.m", "_reference_asset_d_a_o_8m.html", null ],
     [ "ReferenceBeliefDAO.h", "_reference_belief_d_a_o_8h.html", [
-      [ "ReferenceBeliefDAO", "interface_reference_belief_d_a_o.html", "interface_reference_belief_d_a_o" ]
+      [ "ReferenceBeliefDAO", "class_reference_belief_d_a_o.html", "class_reference_belief_d_a_o" ]
     ] ],
     [ "ReferenceBeliefDAO.m", "_reference_belief_d_a_o_8m.html", null ],
     [ "ReferencePersonDAO.h", "_reference_person_d_a_o_8h.html", [
@@ -31,7 +31,7 @@ var dir_e25d99afa133eabaecc09c8a12f8fbd2 =
     ] ],
     [ "ReferencePersonDAO.m", "_reference_person_d_a_o_8m.html", null ],
     [ "ReferenceTextDAO.h", "_reference_text_d_a_o_8h.html", [
-      [ "ReferenceTextDAO", "interface_reference_text_d_a_o.html", "interface_reference_text_d_a_o" ]
+      [ "ReferenceTextDAO", "class_reference_text_d_a_o.html", "class_reference_text_d_a_o" ]
     ] ],
     [ "ReferenceTextDAO.m", "_reference_text_d_a_o_8m.html", null ],
     [ "UserCharacterDAO.h", "_user_character_d_a_o_8h.html", [

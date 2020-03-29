@@ -2819,8 +2819,8 @@
       <Type>cl</Type>
       <Scope>AccessoryObjectView</Scope>
     </TokenIdentifier>
-    <Path>interface_accessory_object_view.html</Path>
-    <Abstract>Accessory image wrapper.</Abstract>
+    <Path>class_accessory_object_view.html</Path>
+    <Abstract>Implementation: An image wrapper is used for accessories as to simplify the setup of each accessory.</Abstract>
     <DeclaredIn>AccessoryObjectView.h</DeclaredIn>
   </Token>
   <Token>
@@ -2830,7 +2830,7 @@
       <Type>instp</Type>
       <Scope>AccessoryObjectView</Scope>
     </TokenIdentifier>
-    <Path>interface_accessory_object_view.html</Path>
+    <Path>class_accessory_object_view.html</Path>
     <Anchor>adf4fc2397308b85c4aa164ebe69525b5</Anchor>
     <Abstract>file name to be retrieved</Abstract>
   </Token>
@@ -3122,7 +3122,7 @@
       <Type>cl</Type>
       <Scope>CharacterDAO</Scope>
     </TokenIdentifier>
-    <Path>interface_character_d_a_o.html</Path>
+    <Path>class_character_d_a_o.html</Path>
     <Abstract>CharacterDAO DAO subclass.</Abstract>
     <DeclaredIn>CharacterDAO.h</DeclaredIn>
   </Token>
@@ -3133,7 +3133,7 @@
       <Type>instm</Type>
       <Scope>CharacterDAO</Scope>
     </TokenIdentifier>
-    <Path>interface_character_d_a_o.html</Path>
+    <Path>class_character_d_a_o.html</Path>
     <Anchor>aafb5762ffeb1587e7a4e9e3e7f421f0e</Anchor>
     <Abstract>Overloaded init to provide dependency injection of ModelManager for both release and testing.</Abstract>
     <DeclaredIn>CharacterDAO.h</DeclaredIn>
@@ -3145,7 +3145,7 @@
       <Type>instm</Type>
       <Scope>CharacterDAO</Scope>
     </TokenIdentifier>
-    <Path>interface_character_d_a_o.html</Path>
+    <Path>class_character_d_a_o.html</Path>
     <Anchor>a80dd04c2471edbf66e3e0300eecee664</Anchor>
     <Abstract>Read method to fetch an Character from the store.</Abstract>
     <DeclaredIn>CharacterDAO.h</DeclaredIn>
@@ -3157,8 +3157,8 @@
       <Type>cl</Type>
       <Scope>ChoiceDetailViewController</Scope>
     </TokenIdentifier>
-    <Path>interface_choice_detail_view_controller.html</Path>
-    <Abstract>Secondary Choice Data entry screen.</Abstract>
+    <Path>class_choice_detail_view_controller.html</Path>
+    <Abstract>Implementation: User can input three additional pieces of information that will affect calculation of...</Abstract>
     <DeclaredIn>ChoiceDetailViewController.h</DeclaredIn>
   </Token>
   <Token>
@@ -3168,7 +3168,7 @@
       <Type>instm</Type>
       <Scope>ChoiceDetailViewController</Scope>
     </TokenIdentifier>
-    <Path>interface_choice_detail_view_controller.html</Path>
+    <Path>class_choice_detail_view_controller.html</Path>
     <Anchor>aedf0b335a211a28d039f15827e9652c0</Anchor>
     <Abstract>Accepts User input to change the description of the Influence slider.</Abstract>
     <DeclaredIn>ChoiceDetailViewController.h</DeclaredIn>
@@ -3180,7 +3180,7 @@
       <Type>instm</Type>
       <Scope>ChoiceDetailViewController</Scope>
     </TokenIdentifier>
-    <Path>interface_choice_detail_view_controller.html</Path>
+    <Path>class_choice_detail_view_controller.html</Path>
     <Anchor>a9a433dcdb6d5adc92aaade994bead867</Anchor>
     <Abstract>Accepts User input to dismiss current UIViewController.</Abstract>
     <DeclaredIn>ChoiceDetailViewController.h</DeclaredIn>
@@ -3192,7 +3192,7 @@
       <Type>instm</Type>
       <Scope>ChoiceDetailViewController</Scope>
     </TokenIdentifier>
-    <Path>interface_choice_detail_view_controller.html</Path>
+    <Path>class_choice_detail_view_controller.html</Path>
     <Anchor>a7d90ad0b6fc3bebee1212f2ba2964b8c</Anchor>
     <Abstract>Accepts User input to remove all changes.</Abstract>
     <DeclaredIn>ChoiceDetailViewController.h</DeclaredIn>
@@ -3204,7 +3204,7 @@
       <Type>instm</Type>
       <Scope>ChoiceDetailViewController</Scope>
     </TokenIdentifier>
-    <Path>interface_choice_detail_view_controller.html</Path>
+    <Path>class_choice_detail_view_controller.html</Path>
     <Anchor>aab550456e76b1a30f351bd756aed69e8</Anchor>
     <Abstract>Accepts User input to view purpose of Influence slider.</Abstract>
     <DeclaredIn>ChoiceDetailViewController.h</DeclaredIn>
@@ -3772,8 +3772,8 @@
       <Type>cl</Type>
       <Scope>ChoiceHistoryViewController</Scope>
     </TokenIdentifier>
-    <Path>interface_choice_history_view_controller.html</Path>
-    <Abstract>Choice History listing screen.</Abstract>
+    <Path>class_choice_history_view_controller.html</Path>
+    <Abstract>Implementation: Present User with list of previously entered Choices.</Abstract>
     <DeclaredIn>ChoiceHistoryViewController.h</DeclaredIn>
   </Token>
   <Token>
@@ -3783,7 +3783,7 @@
       <Type>instm</Type>
       <Scope>ChoiceHistoryViewController</Scope>
     </TokenIdentifier>
-    <Path>interface_choice_history_view_controller.html</Path>
+    <Path>class_choice_history_view_controller.html</Path>
     <Anchor>afb26becf573e8135be13906dc9ad256c</Anchor>
     <Abstract>Dependency injection constructor to pass model.</Abstract>
     <DeclaredIn>ChoiceHistoryViewController.h</DeclaredIn>
@@ -3795,7 +3795,7 @@
       <Type>instm</Type>
       <Scope>ChoiceHistoryViewController</Scope>
     </TokenIdentifier>
-    <Path>interface_choice_history_view_controller.html</Path>
+    <Path>class_choice_history_view_controller.html</Path>
     <Anchor>a139f8cbe4b6eee78ad6c1ce3fc007a79</Anchor>
     <Abstract>Accepts User Input to remove modal screen.</Abstract>
     <DeclaredIn>ChoiceHistoryViewController.h</DeclaredIn>
@@ -3879,7 +3879,7 @@
       <Type>instp</Type>
       <Scope>ChoiceHistoryViewController</Scope>
     </TokenIdentifier>
-    <Path>interface_choice_history_view_controller.html</Path>
+    <Path>class_choice_history_view_controller.html</Path>
     <Anchor>a2ccdcb3bf97f0c476b34e60a762a61ee</Anchor>
     <Abstract>screenshot of previous screen for transition</Abstract>
   </Token>
@@ -4128,8 +4128,8 @@
       <Type>cl</Type>
       <Scope>ChoiceInitViewController</Scope>
     </TokenIdentifier>
-    <Path>interface_choice_init_view_controller.html</Path>
-    <Abstract>Choice Initialization View Controller.</Abstract>
+    <Path>class_choice_init_view_controller.html</Path>
+    <Abstract>Implementation: UIViewController allows subsequent screen selection, controls button animation and re...</Abstract>
     <DeclaredIn>ChoiceInitViewController.h</DeclaredIn>
   </Token>
   <Token>
@@ -4139,7 +4139,7 @@
       <Type>instm</Type>
       <Scope>ChoiceInitViewController</Scope>
     </TokenIdentifier>
-    <Path>interface_choice_init_view_controller.html</Path>
+    <Path>class_choice_init_view_controller.html</Path>
     <Anchor>a6a08b305cbd6da183756eac79a1bb214</Anchor>
     <Abstract>Accepts User input to selects the data entry screen type for Choices or Luck.</Abstract>
     <DeclaredIn>ChoiceInitViewController.h</DeclaredIn>
@@ -4763,7 +4763,7 @@
       <Type>cl</Type>
       <Scope>ChoiceModalViewController</Scope>
     </TokenIdentifier>
-    <Path>interface_choice_modal_view_controller.html</Path>
+    <Path>class_choice_modal_view_controller.html</Path>
     <Abstract>Moral selection screen.</Abstract>
     <DeclaredIn>ChoiceModalViewController.h</DeclaredIn>
   </Token>
@@ -4774,7 +4774,7 @@
       <Type>instm</Type>
       <Scope>ChoiceModalViewController</Scope>
     </TokenIdentifier>
-    <Path>interface_choice_modal_view_controller.html</Path>
+    <Path>class_choice_modal_view_controller.html</Path>
     <Anchor>af8ecbc8b2cbf20e70cd71d300ff296fb</Anchor>
     <Abstract>Accepts User Input to remove modal screen.</Abstract>
     <DeclaredIn>ChoiceModalViewController.h</DeclaredIn>
@@ -4858,7 +4858,7 @@
       <Type>instp</Type>
       <Scope>ChoiceModalViewController</Scope>
     </TokenIdentifier>
-    <Path>interface_choice_modal_view_controller.html</Path>
+    <Path>class_choice_modal_view_controller.html</Path>
     <Anchor>a90951e3851ddccb66de571ad7f5199d2</Anchor>
     <Abstract>screenshot of previous screen for transition</Abstract>
   </Token>
@@ -5722,8 +5722,8 @@
       <Type>cl</Type>
       <Scope>ConscienceAcceptViewController</Scope>
     </TokenIdentifier>
-    <Path>interface_conscience_accept_view_controller.html</Path>
-    <Abstract>Accessory accept screen.</Abstract>
+    <Path>class_conscience_accept_view_controller.html</Path>
+    <Abstract>Implementation: User can accept the choice: ConscienceAsset added to ConscienceBody/ConscienceAccesso...</Abstract>
     <DeclaredIn>ConscienceAcceptViewController.h</DeclaredIn>
   </Token>
   <Token>
@@ -5733,7 +5733,7 @@
       <Type>instm</Type>
       <Scope>ConscienceAcceptViewController</Scope>
     </TokenIdentifier>
-    <Path>interface_conscience_accept_view_controller.html</Path>
+    <Path>class_conscience_accept_view_controller.html</Path>
     <Anchor>a766b61529949dc7a1a5110b62bb10be5</Anchor>
     <Abstract>Accepts User input to commit the choice of ConscienceAsset to persistence.</Abstract>
     <DeclaredIn>ConscienceAcceptViewController.h</DeclaredIn>
@@ -5817,7 +5817,7 @@
       <Type>instp</Type>
       <Scope>ConscienceAcceptViewController</Scope>
     </TokenIdentifier>
-    <Path>interface_conscience_accept_view_controller.html</Path>
+    <Path>class_conscience_accept_view_controller.html</Path>
     <Anchor>a0029f6d4cb8e280186b1bf78b3960346</Anchor>
     <Abstract>which slot is ConscienceAsset, set from ConscienceListViewController</Abstract>
   </Token>
@@ -5828,7 +5828,7 @@
       <Type>instp</Type>
       <Scope>ConscienceAcceptViewController</Scope>
     </TokenIdentifier>
-    <Path>interface_conscience_accept_view_controller.html</Path>
+    <Path>class_conscience_accept_view_controller.html</Path>
     <Anchor>a6fc39a7fa8836af8693a1d085a4ae723</Anchor>
     <Abstract>which ConscienceAsset, set from ConscienceListViewController</Abstract>
   </Token>
@@ -5839,7 +5839,7 @@
       <Type>instp</Type>
       <Scope>ConscienceAcceptViewController</Scope>
     </TokenIdentifier>
-    <Path>interface_conscience_accept_view_controller.html</Path>
+    <Path>class_conscience_accept_view_controller.html</Path>
     <Anchor>a6b11756d7100d48df2b31a111b0a3f69</Anchor>
     <Abstract>screenshot of previous screen for transition</Abstract>
   </Token>
@@ -6212,8 +6212,8 @@
       <Type>cl</Type>
       <Scope>ConscienceAccessoryViewController</Scope>
     </TokenIdentifier>
-    <Path>interface_conscience_accessory_view_controller.html</Path>
-    <Abstract>Secondary Accessory selection screen.</Abstract>
+    <Path>class_conscience_accessory_view_controller.html</Path>
+    <Abstract>Implementation: User selects type of ConscienceAsset by tapping on appropriate bounding box surroundi...</Abstract>
     <DeclaredIn>ConscienceAccessoryViewController.h</DeclaredIn>
   </Token>
   <Token>
@@ -6223,7 +6223,7 @@
       <Type>instm</Type>
       <Scope>ConscienceAccessoryViewController</Scope>
     </TokenIdentifier>
-    <Path>interface_conscience_accessory_view_controller.html</Path>
+    <Path>class_conscience_accessory_view_controller.html</Path>
     <Anchor>a98714ab8c43214b3f03bda27d1750f76</Anchor>
     <Abstract>Accepts User input to select a ConscienceAsset for review.</Abstract>
     <DeclaredIn>ConscienceAccessoryViewController.h</DeclaredIn>
@@ -6235,7 +6235,7 @@
       <Type>instm</Type>
       <Scope>ConscienceAccessoryViewController</Scope>
     </TokenIdentifier>
-    <Path>interface_conscience_accessory_view_controller.html</Path>
+    <Path>class_conscience_accessory_view_controller.html</Path>
     <Anchor>a5cc8cf67ad9aa7f7fadc564957dfaf80</Anchor>
     <Abstract>Accepts User input to return to ConscienceViewController.</Abstract>
     <DeclaredIn>ConscienceAccessoryViewController.h</DeclaredIn>
@@ -6319,7 +6319,7 @@
       <Type>instp</Type>
       <Scope>ConscienceAccessoryViewController</Scope>
     </TokenIdentifier>
-    <Path>interface_conscience_accessory_view_controller.html</Path>
+    <Path>class_conscience_accessory_view_controller.html</Path>
     <Anchor>ad4597b3251d890e36633f813faa87c46</Anchor>
     <Abstract>screenshot of previous screen for transition</Abstract>
   </Token>
@@ -7052,8 +7052,8 @@
       <Type>cl</Type>
       <Scope>ConscienceBuilder</Scope>
     </TokenIdentifier>
-    <Path>interface_conscience_builder.html</Path>
-    <Abstract>Static Utility Class used to build Consciences.</Abstract>
+    <Path>class_conscience_builder.html</Path>
+    <Abstract>Implementation: Take ConscienceBody and turn it into functioning, visual conscience.</Abstract>
     <DeclaredIn>ConscienceBuilder.h</DeclaredIn>
   </Token>
   <Token>
@@ -7063,7 +7063,7 @@
       <Type>clm</Type>
       <Scope>ConscienceBuilder</Scope>
     </TokenIdentifier>
-    <Path>interface_conscience_builder.html</Path>
+    <Path>class_conscience_builder.html</Path>
     <Anchor>ab2a7c7aaaf5d215c276eb942dec937cc</Anchor>
     <Abstract>Build Conscience by rendering all Core Graphics objects and accessory images.</Abstract>
     <DeclaredIn>ConscienceBuilder.h</DeclaredIn>
@@ -7075,7 +7075,7 @@
       <Type>clm</Type>
       <Scope>ConscienceBuilder</Scope>
     </TokenIdentifier>
-    <Path>interface_conscience_builder.html</Path>
+    <Path>class_conscience_builder.html</Path>
     <Anchor>a36e1180da3b3235345845604c3b8fe4c</Anchor>
     <Abstract>Populate each piece of ConscienceBody.</Abstract>
     <DeclaredIn>ConscienceBuilder.h</DeclaredIn>
@@ -8041,8 +8041,8 @@
       <Type>cl</Type>
       <Scope>ConscienceObjectView</Scope>
     </TokenIdentifier>
-    <Path>interface_conscience_object_view.html</Path>
-    <Abstract>Conscience vector object drawn with CoreGraphics.</Abstract>
+    <Path>class_conscience_object_view.html</Path>
+    <Abstract>Implementation: Conscience Object draws a set of drawing instructions which are pulled from SVG docum...</Abstract>
     <DeclaredIn>ConscienceObjectView.h</DeclaredIn>
   </Token>
   <Token>
@@ -8052,7 +8052,7 @@
       <Type>instm</Type>
       <Scope>ConscienceObjectView</Scope>
     </TokenIdentifier>
-    <Path>interface_conscience_object_view.html</Path>
+    <Path>class_conscience_object_view.html</Path>
     <Anchor>a71845b4d598981e016f97c54e3b0d8a2</Anchor>
     <Abstract>Creates a CGMutablePathRef to draw.</Abstract>
     <DeclaredIn>ConscienceObjectView.h</DeclaredIn>
@@ -8064,7 +8064,7 @@
       <Type>instp</Type>
       <Scope>ConscienceObjectView</Scope>
     </TokenIdentifier>
-    <Path>interface_conscience_object_view.html</Path>
+    <Path>class_conscience_object_view.html</Path>
     <Anchor>ae1c815ed12880c7eee8ac23f107d9216</Anchor>
     <Abstract>all ConscienceLayers of an Object</Abstract>
   </Token>
@@ -8075,7 +8075,7 @@
       <Type>instp</Type>
       <Scope>ConscienceObjectView</Scope>
     </TokenIdentifier>
-    <Path>interface_conscience_object_view.html</Path>
+    <Path>class_conscience_object_view.html</Path>
     <Anchor>ac37258ecdf372041e99dc52cad1983eb</Anchor>
     <Abstract>dictionary of ConscienceGradients</Abstract>
   </Token>
@@ -8086,7 +8086,7 @@
       <Type>instp</Type>
       <Scope>ConscienceObjectView</Scope>
     </TokenIdentifier>
-    <Path>interface_conscience_object_view.html</Path>
+    <Path>class_conscience_object_view.html</Path>
     <Anchor>ab03dae535080d430a571a63ea4c25ac3</Anchor>
     <Abstract>default background color</Abstract>
   </Token>
@@ -8097,7 +8097,7 @@
       <Type>instp</Type>
       <Scope>ConscienceObjectView</Scope>
     </TokenIdentifier>
-    <Path>interface_conscience_object_view.html</Path>
+    <Path>class_conscience_object_view.html</Path>
     <Anchor>a418dc3a6dcdc4ddc7804c3dcc1b9ec8c</Anchor>
     <Abstract>path to be used in all drawing/shading</Abstract>
   </Token>
@@ -8109,7 +8109,7 @@
       <Scope>ConsciencePath</Scope>
     </TokenIdentifier>
     <Path>interface_conscience_path.html</Path>
-    <Abstract>Implementation: Take an outer and dymamic CGPathRef, and populate them with the appropriate drawing i...</Abstract>
+    <Abstract>Facial Features Path Data.</Abstract>
     <DeclaredIn>ConsciencePath.h</DeclaredIn>
   </Token>
   <Token>
@@ -8755,8 +8755,8 @@
       <Type>cl</Type>
       <Scope>ConscienceViewController</Scope>
     </TokenIdentifier>
-    <Path>interface_conscience_view_controller.html</Path>
-    <Abstract>Conscience Interaction Workflow.</Abstract>
+    <Path>class_conscience_view_controller.html</Path>
+    <Abstract>Implementation: Present a menu of options to User.</Abstract>
     <DeclaredIn>ConscienceViewController.h</DeclaredIn>
   </Token>
   <Token>
@@ -8766,7 +8766,7 @@
       <Type>instm</Type>
       <Scope>ConscienceViewController</Scope>
     </TokenIdentifier>
-    <Path>interface_conscience_view_controller.html</Path>
+    <Path>class_conscience_view_controller.html</Path>
     <Anchor>a1bc34664d94ffe05e29b7edb1888b4ef</Anchor>
     <Abstract>Accepts User input to change the state of the screen.</Abstract>
     <DeclaredIn>ConscienceViewController.h</DeclaredIn>
@@ -8778,7 +8778,7 @@
       <Type>instm</Type>
       <Scope>ConscienceViewController</Scope>
     </TokenIdentifier>
-    <Path>interface_conscience_view_controller.html</Path>
+    <Path>class_conscience_view_controller.html</Path>
     <Anchor>a863e0183f3f77e4d5afdaa41c4d83930</Anchor>
     <Abstract>Accepts User input to determine which version screen to present.</Abstract>
     <DeclaredIn>ConscienceViewController.h</DeclaredIn>
@@ -8790,7 +8790,7 @@
       <Type>instm</Type>
       <Scope>ConscienceViewController</Scope>
     </TokenIdentifier>
-    <Path>interface_conscience_view_controller.html</Path>
+    <Path>class_conscience_view_controller.html</Path>
     <Anchor>ad7d94b3f80ca40c32936bda42aac5d46</Anchor>
     <Abstract>Accepts User input to cancel Conscience Interaction Workflow.</Abstract>
     <DeclaredIn>ConscienceViewController.h</DeclaredIn>
@@ -8874,7 +8874,7 @@
       <Type>instp</Type>
       <Scope>ConscienceViewController</Scope>
     </TokenIdentifier>
-    <Path>interface_conscience_view_controller.html</Path>
+    <Path>class_conscience_view_controller.html</Path>
     <Anchor>a37724b6d8279d825f7c1833ae14ea275</Anchor>
     <Abstract>screenshot of previous screen for transition</Abstract>
   </Token>
@@ -11099,8 +11099,8 @@
       <Type>cl</Type>
       <Scope>HomeViewController</Scope>
     </TokenIdentifier>
-    <Path>interface_home_view_controller.html</Path>
-    <Abstract>MoraLife Home Screen.</Abstract>
+    <Path>class_home_view_controller.html</Path>
+    <Abstract>Implementation: UIViewController can present many versions of itself without having to render entirel...</Abstract>
     <DeclaredIn>HomeViewController.h</DeclaredIn>
   </Token>
   <Token>
@@ -11110,7 +11110,7 @@
       <Type>instm</Type>
       <Scope>HomeViewController</Scope>
     </TokenIdentifier>
-    <Path>interface_home_view_controller.html</Path>
+    <Path>class_home_view_controller.html</Path>
     <Anchor>a672d704f47855736762a39057c1c4baf</Anchor>
     <Abstract>Dependency injection constructor to pass model.</Abstract>
     <DeclaredIn>HomeViewController.h</DeclaredIn>
@@ -11122,7 +11122,7 @@
       <Type>instm</Type>
       <Scope>HomeViewController</Scope>
     </TokenIdentifier>
-    <Path>interface_home_view_controller.html</Path>
+    <Path>class_home_view_controller.html</Path>
     <Anchor>a2751d3ad648e7cd667805287d5b8bbd5</Anchor>
     <Abstract>Accepts User input in order to determine which thought Bubble to display or ConscienceViewController.</Abstract>
     <DeclaredIn>HomeViewController.h</DeclaredIn>
@@ -12434,7 +12434,7 @@
       <Type>cl</Type>
       <Scope>MoraLifeAppDelegate</Scope>
     </TokenIdentifier>
-    <Path>interface_mora_life_app_delegate.html</Path>
+    <Path>class_mora_life_app_delegate.html</Path>
     <DeclaredIn>MoraLifeAppDelegate.h</DeclaredIn>
   </Token>
   <Token>
@@ -12444,7 +12444,7 @@
       <Type>instp</Type>
       <Scope>MoraLifeAppDelegate</Scope>
     </TokenIdentifier>
-    <Path>interface_mora_life_app_delegate.html</Path>
+    <Path>class_mora_life_app_delegate.html</Path>
     <Anchor>add3dd2a244ce676325fe15c1aa138f2a</Anchor>
   </Token>
   <Token>
@@ -12456,7 +12456,7 @@
     </TokenIdentifier>
     <Path>class_moralife_app_delegate.html</Path>
     <Abstract>Moralife AppDelegate.</Abstract>
-    <DeclaredIn>MoraLifeAppDelegate.h</DeclaredIn>
+    <DeclaredIn>MoralifeAppDelegate.h</DeclaredIn>
   </Token>
   <Token>
     <TokenIdentifier>
@@ -13014,7 +13014,7 @@
       <Type>cl</Type>
       <Scope>ReferenceBeliefDAO</Scope>
     </TokenIdentifier>
-    <Path>interface_reference_belief_d_a_o.html</Path>
+    <Path>class_reference_belief_d_a_o.html</Path>
     <DeclaredIn>ReferenceBeliefDAO.h</DeclaredIn>
   </Token>
   <Token>
@@ -13024,7 +13024,7 @@
       <Type>instm</Type>
       <Scope>ReferenceBeliefDAO</Scope>
     </TokenIdentifier>
-    <Path>interface_reference_belief_d_a_o.html</Path>
+    <Path>class_reference_belief_d_a_o.html</Path>
     <Anchor>ac05af5e656c9f77be95c9d3bed4b1aad</Anchor>
     <Abstract>Overloaded init to provide dependency injection of ModelManager for both release and testing.</Abstract>
     <DeclaredIn>ReferenceBeliefDAO.h</DeclaredIn>
@@ -13036,7 +13036,7 @@
       <Type>instm</Type>
       <Scope>ReferenceBeliefDAO</Scope>
     </TokenIdentifier>
-    <Path>interface_reference_belief_d_a_o.html</Path>
+    <Path>class_reference_belief_d_a_o.html</Path>
     <Anchor>a762543458a756b1be5cbb8b8a043b813</Anchor>
     <Abstract>Read method to fetch an ReferenceBelief from the store.</Abstract>
     <DeclaredIn>ReferenceBeliefDAO.h</DeclaredIn>
@@ -13048,8 +13048,8 @@
       <Type>cl</Type>
       <Scope>ReferenceDetailViewController</Scope>
     </TokenIdentifier>
-    <Path>interface_reference_detail_view_controller.html</Path>
-    <Abstract>Reference information screen.</Abstract>
+    <Path>class_reference_detail_view_controller.html</Path>
+    <Abstract>Implementation: Retrieve ReferenceAsset, ConscienceAsset or Moral from SystemData.</Abstract>
     <DeclaredIn>ReferenceDetailViewController.h</DeclaredIn>
   </Token>
   <Token>
@@ -13059,7 +13059,7 @@
       <Type>instm</Type>
       <Scope>ReferenceDetailViewController</Scope>
     </TokenIdentifier>
-    <Path>interface_reference_detail_view_controller.html</Path>
+    <Path>class_reference_detail_view_controller.html</Path>
     <Anchor>a1d8ad311543cdbb2406699b0f19d13fb</Anchor>
     <Abstract>Dependency injection constructor to pass model.</Abstract>
     <DeclaredIn>ReferenceDetailViewController.h</DeclaredIn>
@@ -13071,7 +13071,7 @@
       <Type>instm</Type>
       <Scope>ReferenceDetailViewController</Scope>
     </TokenIdentifier>
-    <Path>interface_reference_detail_view_controller.html</Path>
+    <Path>class_reference_detail_view_controller.html</Path>
     <Anchor>a09c2d42f0872760a36d6dcecfd075340</Anchor>
     <Abstract>Accepts User input to ask for a Quote from reference.</Abstract>
     <DeclaredIn>ReferenceDetailViewController.h</DeclaredIn>
@@ -13083,7 +13083,7 @@
       <Type>instm</Type>
       <Scope>ReferenceDetailViewController</Scope>
     </TokenIdentifier>
-    <Path>interface_reference_detail_view_controller.html</Path>
+    <Path>class_reference_detail_view_controller.html</Path>
     <Anchor>a248acd1878047b601afb587f3df6f923</Anchor>
     <Abstract>Accepts User input to launch Safari and browse reference&apos;s online reference.</Abstract>
     <DeclaredIn>ReferenceDetailViewController.h</DeclaredIn>
@@ -13095,7 +13095,7 @@
       <Type>instm</Type>
       <Scope>ReferenceDetailViewController</Scope>
     </TokenIdentifier>
-    <Path>interface_reference_detail_view_controller.html</Path>
+    <Path>class_reference_detail_view_controller.html</Path>
     <Anchor>a1f30070e3f14052bcd1ffd0a87977101</Anchor>
     <Abstract>Accepts User input to cancel the detail screen.</Abstract>
     <DeclaredIn>ReferenceDetailViewController.h</DeclaredIn>
@@ -13607,8 +13607,8 @@
       <Type>cl</Type>
       <Scope>ReferenceListViewController</Scope>
     </TokenIdentifier>
-    <Path>interface_reference_list_view_controller.html</Path>
-    <Abstract>List of available References.</Abstract>
+    <Path>class_reference_list_view_controller.html</Path>
+    <Abstract>Implementation: Retrieve requested Reference types from SystemData.</Abstract>
     <DeclaredIn>ReferenceListViewController.h</DeclaredIn>
   </Token>
   <Token>
@@ -13618,7 +13618,7 @@
       <Type>instm</Type>
       <Scope>ReferenceListViewController</Scope>
     </TokenIdentifier>
-    <Path>interface_reference_list_view_controller.html</Path>
+    <Path>class_reference_list_view_controller.html</Path>
     <Anchor>a1204e5d0aadf402db96f22b9f15dc14d</Anchor>
     <Abstract>Dependency injection constructor to pass model.</Abstract>
     <DeclaredIn>ReferenceListViewController.h</DeclaredIn>
@@ -13702,7 +13702,7 @@
       <Type>instp</Type>
       <Scope>ReferenceListViewController</Scope>
     </TokenIdentifier>
-    <Path>interface_reference_list_view_controller.html</Path>
+    <Path>class_reference_list_view_controller.html</Path>
     <Anchor>af1218260fbcd7e19ffba47a5d0314644</Anchor>
     <Abstract>int determining type of reference selection</Abstract>
   </Token>
@@ -14515,7 +14515,7 @@
       <Type>cl</Type>
       <Scope>ReferenceReport</Scope>
     </TokenIdentifier>
-    <Path>interface_reference_report.html</Path>
+    <Path>class_reference_report.html</Path>
     <DeclaredIn>ReferenceReport.h</DeclaredIn>
   </Token>
   <Token>
@@ -15054,7 +15054,7 @@
       <Type>cl</Type>
       <Scope>ReferenceTextDAO</Scope>
     </TokenIdentifier>
-    <Path>interface_reference_text_d_a_o.html</Path>
+    <Path>class_reference_text_d_a_o.html</Path>
     <Abstract>ReferenceText DAO subclass.</Abstract>
     <DeclaredIn>ReferenceTextDAO.h</DeclaredIn>
   </Token>
@@ -15065,7 +15065,7 @@
       <Type>instm</Type>
       <Scope>ReferenceTextDAO</Scope>
     </TokenIdentifier>
-    <Path>interface_reference_text_d_a_o.html</Path>
+    <Path>class_reference_text_d_a_o.html</Path>
     <Anchor>ad7bf6239bacdfe15075331412d32a00e</Anchor>
     <Abstract>Overloaded init to provide dependency injection of ModelManager for both release and testing.</Abstract>
     <DeclaredIn>ReferenceTextDAO.h</DeclaredIn>
@@ -15077,7 +15077,7 @@
       <Type>instm</Type>
       <Scope>ReferenceTextDAO</Scope>
     </TokenIdentifier>
-    <Path>interface_reference_text_d_a_o.html</Path>
+    <Path>class_reference_text_d_a_o.html</Path>
     <Anchor>ae549126f040040426e11b3a97643215a</Anchor>
     <Abstract>Read method to fetch an ReferenceText from the store.</Abstract>
     <DeclaredIn>ReferenceTextDAO.h</DeclaredIn>
@@ -16307,7 +16307,7 @@
       <Scope>UIViewController(Screenshot)</Scope>
     </TokenIdentifier>
     <Path>category_u_i_view_controller_07_screenshot_08.html</Path>
-    <Abstract>UIViewController utility category.</Abstract>
+    <Abstract>Implementation: Do up some CG magic.</Abstract>
     <DeclaredIn>UIViewController+Screenshot.h</DeclaredIn>
   </Token>
   <Token>
@@ -16820,7 +16820,7 @@
       <Type>cl</Type>
       <Scope>UserConscience</Scope>
     </TokenIdentifier>
-    <Path>interface_user_conscience.html</Path>
+    <Path>class_user_conscience.html</Path>
     <Abstract>UserConscience class.</Abstract>
     <DeclaredIn>UserConscience.h</DeclaredIn>
   </Token>
@@ -16831,7 +16831,7 @@
       <Type>instm</Type>
       <Scope>UserConscience</Scope>
     </TokenIdentifier>
-    <Path>interface_user_conscience.html</Path>
+    <Path>class_user_conscience.html</Path>
     <Anchor>a71683533aca8db73105c9bdf550756eb</Anchor>
     <Abstract>Dependency injection constructor to pass model.</Abstract>
     <DeclaredIn>UserConscience.h</DeclaredIn>
@@ -16843,7 +16843,7 @@
       <Type>instm</Type>
       <Scope>UserConscience</Scope>
     </TokenIdentifier>
-    <Path>interface_user_conscience.html</Path>
+    <Path>class_user_conscience.html</Path>
     <Anchor>a3b9d832ad58c0bb555f204a2f5f991c7</Anchor>
     <Abstract>Cancel all of shooken UserConscience behavior.</Abstract>
     <DeclaredIn>UserConscience.h</DeclaredIn>
@@ -16855,7 +16855,7 @@
       <Type>instp</Type>
       <Scope>UserConscience</Scope>
     </TokenIdentifier>
-    <Path>interface_user_conscience.html</Path>
+    <Path>class_user_conscience.html</Path>
     <Anchor>af7576c60d03e6953d03c67ae76380fa6</Anchor>
     <Abstract>Representation of User&apos;s Conscience.</Abstract>
   </Token>
@@ -16866,7 +16866,7 @@
       <Type>instp</Type>
       <Scope>UserConscience</Scope>
     </TokenIdentifier>
-    <Path>interface_user_conscience.html</Path>
+    <Path>class_user_conscience.html</Path>
     <Anchor>a91d74d53a29e42bcb07397d6ab30168b</Anchor>
     <Abstract>Representation of User&apos;s Accessories.</Abstract>
   </Token>
@@ -16877,7 +16877,7 @@
       <Type>instp</Type>
       <Scope>UserConscience</Scope>
     </TokenIdentifier>
-    <Path>interface_user_conscience.html</Path>
+    <Path>class_user_conscience.html</Path>
     <Anchor>a7d9f9a8e45a84ccf93cb3741bf80a7a5</Anchor>
     <Abstract>Visual representation of User&apos;s Conscience+Accessories.</Abstract>
   </Token>
@@ -16888,7 +16888,7 @@
       <Type>instp</Type>
       <Scope>UserConscience</Scope>
     </TokenIdentifier>
-    <Path>interface_user_conscience.html</Path>
+    <Path>class_user_conscience.html</Path>
     <Anchor>afe4261822201aeddf1d7f15211da0996</Anchor>
     <Abstract>Representation of User&apos;s Mental State.</Abstract>
   </Token>
@@ -16899,7 +16899,7 @@
       <Type>instp</Type>
       <Scope>UserConscience</Scope>
     </TokenIdentifier>
-    <Path>interface_user_conscience.html</Path>
+    <Path>class_user_conscience.html</Path>
     <Anchor>af70cb430fbb8278b015080d952cbf1cf</Anchor>
     <Abstract>Currently owned items.</Abstract>
   </Token>
@@ -16910,7 +16910,7 @@
       <Type>instp</Type>
       <Scope>UserConscience</Scope>
     </TokenIdentifier>
-    <Path>interface_user_conscience.html</Path>
+    <Path>class_user_conscience.html</Path>
     <Anchor>a701c546bfc6682f9db013f5897d0da39</Anchor>
     <Abstract>set a mood temporarily</Abstract>
   </Token>
@@ -17231,7 +17231,7 @@
       <Type>cl</Type>
       <Scope>UserLuck</Scope>
     </TokenIdentifier>
-    <Path>interface_user_luck.html</Path>
+    <Path>class_user_luck.html</Path>
     <DeclaredIn>UserLuck.h</DeclaredIn>
   </Token>
   <Token>
@@ -17241,7 +17241,7 @@
       <Type>instp</Type>
       <Scope>UserLuck</Scope>
     </TokenIdentifier>
-    <Path>interface_user_luck.html</Path>
+    <Path>class_user_luck.html</Path>
     <Anchor>a20c9e1e1122686794b2664ef0b143f48</Anchor>
   </Token>
   <Token>

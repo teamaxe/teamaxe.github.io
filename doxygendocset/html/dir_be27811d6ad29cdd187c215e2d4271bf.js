@@ -30,7 +30,7 @@ var dir_be27811d6ad29cdd187c215e2d4271bf =
     ] ],
     [ "ReferencePerson.m", "_reference_person_8m.html", null ],
     [ "ReferenceReport.h", "_reference_report_8h.html", [
-      [ "ReferenceReport", "interface_reference_report.html", null ]
+      [ "ReferenceReport", "class_reference_report.html", null ]
     ] ],
     [ "ReferenceReport.m", "_reference_report_8m.html", null ],
     [ "ReferenceText.h", "_reference_text_8h.html", [
@@ -59,7 +59,7 @@ var dir_be27811d6ad29cdd187c215e2d4271bf =
     ] ],
     [ "UserEntry.m", "_user_entry_8m.html", null ],
     [ "UserLuck.h", "_user_luck_8h.html", [
-      [ "UserLuck", "interface_user_luck.html", "interface_user_luck" ]
+      [ "UserLuck", "class_user_luck.html", "class_user_luck" ]
     ] ],
     [ "UserLuck.m", "_user_luck_8m.html", null ]
 ];

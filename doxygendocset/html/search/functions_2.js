@@ -2,7 +2,7 @@ var searchData=
 [
   ['cancelchoice_1517',['cancelChoice',['../category_choice_detail_view_controller_07_08.html#a4bbaec2580da6c6951a620bbe55a5b6a',1,'ChoiceDetailViewController()']]],
   ['cancelchoice_3a_1518',['cancelChoice:',['../interface_choice_view_controller.html#ab16d75135157bd69d49f70c29cabe65a',1,'ChoiceViewController']]],
-  ['canceltapped_1519',['cancelTapped',['../interface_choice_detail_view_controller.html#a7d90ad0b6fc3bebee1212f2ba2964b8c',1,'ChoiceDetailViewController']]],
+  ['canceltapped_1519',['cancelTapped',['../class_choice_detail_view_controller.html#a7d90ad0b6fc3bebee1212f2ba2964b8c',1,'ChoiceDetailViewController']]],
   ['changebrowexpressions_3aforeye_3a_1520',['changeBrowExpressions:forEye:',['../category_conscience_view_07_08.html#ab42060444fcd1a4516852f708ce0ac2b',1,'ConscienceView()']]],
   ['changebubble_1521',['changeBubble',['../interface_conscience_view.html#a4f09af5edfddc00884b322f544fec5a1',1,'ConscienceView']]],
   ['changedimplesexpressions_3a_1522',['changeDimplesExpressions:',['../interface_conscience_view.html#a6b530d6b0f9e8e2c94d4323eb25e1f95',1,'ConscienceView']]],
@@ -23,11 +23,11 @@ var searchData=
   ['configureconscience_1537',['configureConscience',['../category_user_conscience_07_08.html#a5b9f8b6f80e80eb46ba51d4ce921f6ab',1,'UserConscience()']]],
   ['converttoconsciencepath_3awithstyle_3a_1538',['convertToConsciencePath:WithStyle:',['../interface_conscience_path.html#acc295ebe3acccc0978645ca73515653e',1,'ConsciencePath']]],
   ['count_1539',['count',['../_base_d_a_o_8h.html#a9ba94da7db769b98d02381d872dd9bbb',1,'BaseDAO.h']]],
-  ['create_1540',['create',['../interface_user_character_d_a_o.html#ae7bdc94ce7b9d49e8089a3ba6c2f8dfe',1,'UserCharacterDAO::create()'],['../interface_user_choice_d_a_o.html#a9c021488f30d0b26a33c0762be22e990',1,'UserChoiceDAO::create()'],['../interface_user_collectable_d_a_o.html#a7b85482cf1db5feda905961c1ca6a502',1,'UserCollectableDAO::create()'],['../interface_user_dilemma_d_a_o.html#ae1ead621d7422187a51de0f9fa18ae00',1,'UserDilemmaDAO::create()']]],
+  ['create_1540',['create',['../interface_user_character_d_a_o.html#ae7bdc94ce7b9d49e8089a3ba6c2f8dfe',1,'UserCharacterDAO::create()'],['../interface_user_collectable_d_a_o.html#a7b85482cf1db5feda905961c1ca6a502',1,'UserCollectableDAO::create()'],['../interface_user_choice_d_a_o.html#a9c021488f30d0b26a33c0762be22e990',1,'UserChoiceDAO::create()'],['../interface_user_dilemma_d_a_o.html#ae1ead621d7422187a51de0f9fa18ae00',1,'UserDilemmaDAO::create()']]],
   ['create_3a_1541',['create:',['../interface_model_manager.html#a3c91f67f1c54e2bf0e8213a94226286d',1,'ModelManager']]],
   ['createconscience_1542',['createConscience',['../category_user_conscience_07_08.html#a4ed77d99a74ef7ba2752312be50a0ee5',1,'UserConscience()']]],
   ['createdateview_1543',['createDateView',['../category_reference_detail_view_controller_07_08.html#a747ef68818238ed62edca0619e6c312b',1,'ReferenceDetailViewController()']]],
   ['createlist_1544',['createList',['../category_conscience_accessory_view_controller_07_08.html#a31f0725938b4a2d23037a53ba496f4e3',1,'ConscienceAccessoryViewController()']]],
   ['createobject_1545',['createObject',['../_base_d_a_o_8h.html#a9d474b272b6197361b05a6a312a74ff2',1,'BaseDAO.h']]],
-  ['createpathfrompoints_3awithinstructions_3aforpath_3a_1546',['createPathFromPoints:WithInstructions:ForPath:',['../interface_conscience_object_view.html#a71845b4d598981e016f97c54e3b0d8a2',1,'ConscienceObjectView']]]
+  ['createpathfrompoints_3awithinstructions_3aforpath_3a_1546',['createPathFromPoints:WithInstructions:ForPath:',['../class_conscience_object_view.html#a71845b4d598981e016f97c54e3b0d8a2',1,'ConscienceObjectView']]]
 ];

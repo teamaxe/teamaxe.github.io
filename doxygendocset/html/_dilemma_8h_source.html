@@ -88,47 +88,14 @@ $(document).ready(function(){initNavTree('_dilemma_8h_source.html',''); initResi
 <div class="title">Dilemma.h</div>  </div>
 </div><!--header-->
 <div class="contents">
-<a href="_dilemma_8h.html">Go to the documentation of this file.</a><div class="fragment"><div class="line"><a name="l00001"></a><span class="lineno">    1</span>&#160;<span class="comment">//</span></div>
-<div class="line"><a name="l00002"></a><span class="lineno">    2</span>&#160;<span class="comment">//  Dilemma.h</span></div>
-<div class="line"><a name="l00003"></a><span class="lineno">    3</span>&#160;<span class="comment">//  mlcoredata</span></div>
-<div class="line"><a name="l00004"></a><span class="lineno">    4</span>&#160;<span class="comment">//</span></div>
-<div class="line"><a name="l00005"></a><span class="lineno">    5</span>&#160;<span class="comment">//  Created by aaxe on 6/2/11.</span></div>
-<div class="line"><a name="l00006"></a><span class="lineno">    6</span>&#160;<span class="comment">//  Copyright (c) 2011 Team Axe, LLC. All rights reserved.</span></div>
-<div class="line"><a name="l00007"></a><span class="lineno">    7</span>&#160;<span class="comment">//</span></div>
-<div class="line"><a name="l00008"></a><span class="lineno">    8</span>&#160; </div>
-<div class="line"><a name="l00009"></a><span class="lineno">    9</span>&#160;<span class="preprocessor">#import &lt;Foundation/Foundation.h&gt;</span></div>
-<div class="line"><a name="l00010"></a><span class="lineno">   10</span>&#160;<span class="preprocessor">#import &lt;CoreData/CoreData.h&gt;</span></div>
-<div class="line"><a name="l00011"></a><span class="lineno">   11</span>&#160; </div>
-<div class="line"><a name="l00012"></a><span class="lineno">   12</span>&#160;<span class="keyword">@class</span> <a class="code" href="interface_character.html">Character</a>, <a class="code" href="interface_moral.html">Moral</a>;</div>
-<div class="line"><a name="l00013"></a><span class="lineno">   13</span>&#160; </div>
-<div class="line"><a name="l00014"></a><span class="lineno"><a class="line" href="interface_dilemma.html">   14</a></span>&#160;<span class="keyword">@interface </span><a class="code" href="interface_dilemma.html">Dilemma</a> : NSManagedObject {</div>
-<div class="line"><a name="l00015"></a><span class="lineno">   15</span>&#160;<span class="keyword">@private</span></div>
-<div class="line"><a name="l00016"></a><span class="lineno">   16</span>&#160;}</div>
-<div class="line"><a name="l00017"></a><span class="lineno"><a class="line" href="interface_dilemma.html#a81efe5f5dfcbc52a29209f6334064474">   17</a></span>&#160;<span class="keyword">@property</span> (nonatomic, strong) NSString * rewardADilemma;</div>
-<div class="line"><a name="l00018"></a><span class="lineno"><a class="line" href="interface_dilemma.html#a714a9b5501190a77ecc0f72ae7007ba2">   18</a></span>&#160;<span class="keyword">@property</span> (nonatomic, strong) NSString * choiceB;</div>
-<div class="line"><a name="l00019"></a><span class="lineno"><a class="line" href="interface_dilemma.html#a2aa06dab8abd82c4f7dbe9bf2e5e1634">   19</a></span>&#160;<span class="keyword">@property</span> (nonatomic, strong) NSNumber * moodDilemma;</div>
-<div class="line"><a name="l00020"></a><span class="lineno"><a class="line" href="interface_dilemma.html#a28ba6c1dc9091e59f786edd93808862e">   20</a></span>&#160;<span class="keyword">@property</span> (nonatomic, strong) NSString * displayNameDilemma;</div>
-<div class="line"><a name="l00021"></a><span class="lineno"><a class="line" href="interface_dilemma.html#a6005022c476ac0b42b4d4e73a732f47e">   21</a></span>&#160;<span class="keyword">@property</span> (nonatomic, strong) NSString * surrounding;</div>
-<div class="line"><a name="l00022"></a><span class="lineno"><a class="line" href="interface_dilemma.html#a35d28a1f5d3c6b47693196656bb9933d">   22</a></span>&#160;<span class="keyword">@property</span> (nonatomic, strong) NSString * nameDilemma;</div>
-<div class="line"><a name="l00023"></a><span class="lineno"><a class="line" href="interface_dilemma.html#a9c847667a17c24ca7484becfcef19bcc">   23</a></span>&#160;<span class="keyword">@property</span> (nonatomic, strong) NSString * rewardBDilemma;</div>
-<div class="line"><a name="l00024"></a><span class="lineno"><a class="line" href="interface_dilemma.html#a8a0abc1fb5ea0bd4a338ea22c9c40e62">   24</a></span>&#160;<span class="keyword">@property</span> (nonatomic, strong) NSString * choiceA;</div>
-<div class="line"><a name="l00025"></a><span class="lineno"><a class="line" href="interface_dilemma.html#a2036b7f4ef7b89d48b2df723929797e0">   25</a></span>&#160;<span class="keyword">@property</span> (nonatomic, strong) NSNumber * enthusiasmDilemma;</div>
-<div class="line"><a name="l00026"></a><span class="lineno"><a class="line" href="interface_dilemma.html#a9719f70bfb36e72e22db66391f8643e1">   26</a></span>&#160;<span class="keyword">@property</span> (nonatomic, strong) NSString * dilemmaText;</div>
-<div class="line"><a name="l00027"></a><span class="lineno"><a class="line" href="interface_dilemma.html#a070c297a24f46c343b5702efa265c434">   27</a></span>&#160;<span class="keyword">@property</span> (nonatomic, strong) <a class="code" href="interface_moral.html">Moral</a> * moralChoiceA;</div>
-<div class="line"><a name="l00028"></a><span class="lineno"><a class="line" href="interface_dilemma.html#af548e73ef1583dfa91a28c1c5dc9b736">   28</a></span>&#160;<span class="keyword">@property</span> (nonatomic, strong) <a class="code" href="interface_character.html">Character</a> * antagonist;</div>
-<div class="line"><a name="l00029"></a><span class="lineno"><a class="line" href="interface_dilemma.html#a22d7df03ae4eb4dad0dbbe03c40f8ea4">   29</a></span>&#160;<span class="keyword">@property</span> (nonatomic, strong) <a class="code" href="interface_moral.html">Moral</a> * moralChoiceB;</div>
-<div class="line"><a name="l00030"></a><span class="lineno">   30</span>&#160; </div>
-<div class="line"><a name="l00031"></a><span class="lineno">   31</span>&#160;<span class="keyword">@end</span></div>
+<a href="_dilemma_8h.html">Go to the documentation of this file.</a><div class="fragment"><div class="line"><a name="l00001"></a><span class="lineno">    1</span>&#160; </div>
 </div><!-- fragment --></div><!-- contents -->
 </div><!-- doc-content -->
-<div class="ttc" id="ainterface_moral_html"><div class="ttname"><a href="interface_moral.html">Moral</a></div><div class="ttdef"><b>Definition:</b> Moral.h:14</div></div>
-<div class="ttc" id="ainterface_character_html"><div class="ttname"><a href="interface_character.html">Character</a></div><div class="ttdef"><b>Definition:</b> Character.h:14</div></div>
-<div class="ttc" id="ainterface_dilemma_html"><div class="ttname"><a href="interface_dilemma.html">Dilemma</a></div><div class="ttdef"><b>Definition:</b> Dilemma.h:14</div></div>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="dir_74398efacd7fc2e78de2e7345eebb647.html">moralife</a></li><li class="navelem"><a class="el" href="dir_3a68f7d9835669a527a341e90221accb.html">Classes</a></li><li class="navelem"><a class="el" href="dir_575772ab7895c88eb405831118875dd7.html">Model</a></li><li class="navelem"><a class="el" href="dir_be27811d6ad29cdd187c215e2d4271bf.html">Generated</a></li><li class="navelem"><a class="el" href="_dilemma_8h.html">Dilemma.h</a></li>
-    <li class="footer">Generated on Sun Mar 29 2020 08:57:37 for MoraLife by
+    <li class="footer">Generated on Sun Mar 29 2020 09:13:40 for MoraLife by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.17 </li>
   </ul>

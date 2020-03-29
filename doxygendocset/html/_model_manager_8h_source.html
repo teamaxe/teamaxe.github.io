@@ -89,40 +89,13 @@ $(document).ready(function(){initNavTree('_model_manager_8h_source.html',''); in
 </div><!--header-->
 <div class="contents">
 <a href="_model_manager_8h.html">Go to the documentation of this file.</a><div class="fragment"><div class="line"><a name="l00001"></a><span class="lineno">    1</span>&#160; </div>
-<div class="line"><a name="l00010"></a><span class="lineno">   10</span>&#160;<span class="preprocessor">#import &lt;CoreData/CoreData.h&gt;</span></div>
-<div class="line"><a name="l00011"></a><span class="lineno">   11</span>&#160; </div>
-<div class="line"><a name="l00012"></a><span class="lineno"><a class="line" href="interface_model_manager.html">   12</a></span>&#160;<span class="keyword">@interface </span><a class="code" href="interface_model_manager.html">ModelManager</a> : NSObject </div>
-<div class="line"><a name="l00013"></a><span class="lineno">   13</span>&#160; </div>
-<div class="line"><a name="l00014"></a><span class="lineno"><a class="line" href="interface_model_manager.html#a80e180890418348f85113da840e2ddd9">   14</a></span>&#160;<span class="keyword">@property</span> (nonatomic, strong, readonly) NSManagedObjectContext *<a class="code" href="interface_model_manager.html#a80e180890418348f85113da840e2ddd9">managedObjectContext</a>;</div>
-<div class="line"><a name="l00015"></a><span class="lineno"><a class="line" href="interface_model_manager.html#aeb59221b70cabd37262e6d5bd6378f29">   15</a></span>&#160;<span class="keyword">@property</span> (nonatomic, strong, readonly) NSManagedObjectContext *<a class="code" href="interface_model_manager.html#aeb59221b70cabd37262e6d5bd6378f29">readWriteManagedObjectContext</a>;</div>
-<div class="line"><a name="l00016"></a><span class="lineno">   16</span>&#160; </div>
-<div class="line"><a name="l00022"></a><span class="lineno">   22</span>&#160;- (id)initWithInMemoryStore:(BOOL)isTransient;</div>
-<div class="line"><a name="l00023"></a><span class="lineno">   23</span>&#160; </div>
-<div class="line"><a name="l00029"></a><span class="lineno">   29</span>&#160;- (id)create: (Class) insertedClass;</div>
-<div class="line"><a name="l00030"></a><span class="lineno">   30</span>&#160; </div>
-<div class="line"><a name="l00036"></a><span class="lineno">   36</span>&#160;- (NSArray *)<a class="code" href="_base_d_a_o_8h.html#a982192dec54dc3f9c2197180548d5be9">readAll</a>: (Class) requestedClass;</div>
-<div class="line"><a name="l00037"></a><span class="lineno">   37</span>&#160; </div>
-<div class="line"><a name="l00045"></a><span class="lineno">   45</span>&#160;- (id)read: (Class) requestedClass withKey: (<span class="keywordtype">id</span>) classKey andValue:(<span class="keywordtype">id</span>) keyValue;</div>
-<div class="line"><a name="l00046"></a><span class="lineno">   46</span>&#160; </div>
-<div class="line"><a name="l00051"></a><span class="lineno">   51</span>&#160;- (void)delete: (<span class="keywordtype">id</span>) object;</div>
-<div class="line"><a name="l00052"></a><span class="lineno">   52</span>&#160; </div>
-<div class="line"><a name="l00057"></a><span class="lineno">   57</span>&#160;- (void)deleteReadWrite: (<span class="keywordtype">id</span>) object;</div>
-<div class="line"><a name="l00058"></a><span class="lineno">   58</span>&#160; </div>
-<div class="line"><a name="l00062"></a><span class="lineno">   62</span>&#160;- (void)<a class="code" href="interface_model_manager.html#a606ef692d964b364e8840dc7efe7650b">saveContext</a>;</div>
-<div class="line"><a name="l00063"></a><span class="lineno">   63</span>&#160; </div>
-<div class="line"><a name="l00064"></a><span class="lineno">   64</span>&#160;<span class="keyword">@end</span></div>
 </div><!-- fragment --></div><!-- contents -->
 </div><!-- doc-content -->
-<div class="ttc" id="ainterface_model_manager_html_a80e180890418348f85113da840e2ddd9"><div class="ttname"><a href="interface_model_manager.html#a80e180890418348f85113da840e2ddd9">ModelManager::managedObjectContext</a></div><div class="ttdeci">NSManagedObjectContext * managedObjectContext</div><div class="ttdoc">Returns the readonly managed object context for the application.</div><div class="ttdef"><b>Definition:</b> ModelManager.h:14</div></div>
-<div class="ttc" id="ainterface_model_manager_html_aeb59221b70cabd37262e6d5bd6378f29"><div class="ttname"><a href="interface_model_manager.html#aeb59221b70cabd37262e6d5bd6378f29">ModelManager::readWriteManagedObjectContext</a></div><div class="ttdeci">NSManagedObjectContext * readWriteManagedObjectContext</div><div class="ttdoc">Returns the read/write managed object context for the application.</div><div class="ttdef"><b>Definition:</b> ModelManager.h:15</div></div>
-<div class="ttc" id="ainterface_model_manager_html_a606ef692d964b364e8840dc7efe7650b"><div class="ttname"><a href="interface_model_manager.html#a606ef692d964b364e8840dc7efe7650b">-[ModelManager saveContext]</a></div><div class="ttdeci">void saveContext()</div><div class="ttdoc">Save the current Core Data context for whenever a modify is needed.</div><div class="ttdef"><b>Definition:</b> ModelManager.m:540</div></div>
-<div class="ttc" id="a_base_d_a_o_8h_html_a982192dec54dc3f9c2197180548d5be9"><div class="ttname"><a href="_base_d_a_o_8h.html#a982192dec54dc3f9c2197180548d5be9">readAll</a></div><div class="ttdeci">NSArray * readAll()</div><div class="ttdoc">List method to fetch all NSManagedObjects of subclass' type.</div></div>
-<div class="ttc" id="ainterface_model_manager_html"><div class="ttname"><a href="interface_model_manager.html">ModelManager</a></div><div class="ttdoc">Moralife Model Manager.</div><div class="ttdef"><b>Definition:</b> ModelManager.h:12</div></div>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="dir_74398efacd7fc2e78de2e7345eebb647.html">moralife</a></li><li class="navelem"><a class="el" href="dir_3a68f7d9835669a527a341e90221accb.html">Classes</a></li><li class="navelem"><a class="el" href="dir_575772ab7895c88eb405831118875dd7.html">Model</a></li><li class="navelem"><a class="el" href="_model_manager_8h.html">ModelManager.h</a></li>
-    <li class="footer">Generated on Sun Mar 29 2020 08:57:37 for MoraLife by
+    <li class="footer">Generated on Sun Mar 29 2020 09:13:40 for MoraLife by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.17 </li>
   </ul>

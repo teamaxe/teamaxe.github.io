@@ -1,14 +1,14 @@
 var hierarchy =
 [
     [ "BaseDAO", "class_base_d_a_o.html", [
-      [ "CharacterDAO", "interface_character_d_a_o.html", null ],
+      [ "CharacterDAO", "class_character_d_a_o.html", null ],
       [ "ConscienceAssetDAO", "interface_conscience_asset_d_a_o.html", null ],
       [ "DilemmaDAO", "interface_dilemma_d_a_o.html", null ],
       [ "MoralDAO", "interface_moral_d_a_o.html", null ],
       [ "ReferenceAssetDAO", "interface_reference_asset_d_a_o.html", null ],
-      [ "ReferenceBeliefDAO", "interface_reference_belief_d_a_o.html", null ],
+      [ "ReferenceBeliefDAO", "class_reference_belief_d_a_o.html", null ],
       [ "ReferencePersonDAO", "interface_reference_person_d_a_o.html", null ],
-      [ "ReferenceTextDAO", "interface_reference_text_d_a_o.html", null ],
+      [ "ReferenceTextDAO", "class_reference_text_d_a_o.html", null ],
       [ "UserCharacterDAO", "interface_user_character_d_a_o.html", null ],
       [ "UserChoiceDAO", "interface_user_choice_d_a_o.html", null ],
       [ "UserCollectableDAO", "interface_user_collectable_d_a_o.html", null ],
@@ -38,7 +38,7 @@ var hierarchy =
         [ "ConscienceAsset", "interface_conscience_asset.html", null ],
         [ "ReferenceBelief", "interface_reference_belief.html", null ],
         [ "ReferencePerson", "interface_reference_person.html", null ],
-        [ "ReferenceReport", "interface_reference_report.html", null ],
+        [ "ReferenceReport", "class_reference_report.html", null ],
         [ "ReferenceText", "interface_reference_text.html", null ]
       ] ],
       [ "UserCharacter", "interface_user_character.html", null ],
@@ -46,7 +46,7 @@ var hierarchy =
       [ "UserEntry", "interface_user_entry.html", [
         [ "UserChoice", "interface_user_choice.html", null ],
         [ "UserDilemma", "interface_user_dilemma.html", null ],
-        [ "UserLuck", "interface_user_luck.html", null ]
+        [ "UserLuck", "class_user_luck.html", null ]
       ] ]
     ] ],
     [ "NSObject", null, [
@@ -54,7 +54,7 @@ var hierarchy =
       [ "ConscienceAccessories", "interface_conscience_accessories.html", null ],
       [ "ConscienceBody", "interface_conscience_body.html", null ],
       [ "ConscienceBubbleFactory", "interface_conscience_bubble_factory.html", null ],
-      [ "ConscienceBuilder", "interface_conscience_builder.html", null ],
+      [ "ConscienceBuilder", "class_conscience_builder.html", null ],
       [ "ConscienceGradient", "interface_conscience_gradient.html", null ],
       [ "ConscienceLayer", "interface_conscience_layer.html", null ],
       [ "ConscienceMind", "interface_conscience_mind.html", null ],
@@ -62,10 +62,10 @@ var hierarchy =
       [ "DilemmaListModel", "interface_dilemma_list_model.html", null ],
       [ "HomeModel", "interface_home_model.html", null ],
       [ "ModelManager", "interface_model_manager.html", null ],
-      [ "MoraLifeAppDelegate", "interface_mora_life_app_delegate.html", null ],
+      [ "MoraLifeAppDelegate", "class_mora_life_app_delegate.html", null ],
       [ "ReferenceModel", "interface_reference_model.html", null ],
       [ "ReportPieModel", "interface_report_pie_model.html", null ],
-      [ "UserConscience", "interface_user_conscience.html", null ],
+      [ "UserConscience", "class_user_conscience.html", null ],
       [ "XMLParser", "interface_x_m_l_parser.html", null ]
     ] ],
     [ "<NSObject>", null, [
@@ -84,22 +84,22 @@ var hierarchy =
         [ "HomeViewController()", "category_home_view_controller_07_08.html", null ],
         [ "IntroViewController()", "category_intro_view_controller_07_08.html", null ],
         [ "MoraLifeViewController", "interface_mora_life_view_controller.html", [
-          [ "ChoiceDetailViewController", "interface_choice_detail_view_controller.html", null ],
-          [ "ChoiceHistoryViewController", "interface_choice_history_view_controller.html", null ],
-          [ "ChoiceInitViewController", "interface_choice_init_view_controller.html", null ],
+          [ "ChoiceDetailViewController", "class_choice_detail_view_controller.html", null ],
+          [ "ChoiceHistoryViewController", "class_choice_history_view_controller.html", null ],
+          [ "ChoiceInitViewController", "class_choice_init_view_controller.html", null ],
           [ "ChoiceListViewController", "interface_choice_list_view_controller.html", null ],
-          [ "ChoiceModalViewController", "interface_choice_modal_view_controller.html", null ],
+          [ "ChoiceModalViewController", "class_choice_modal_view_controller.html", null ],
           [ "ChoiceViewController", "interface_choice_view_controller.html", null ],
-          [ "ConscienceAcceptViewController", "interface_conscience_accept_view_controller.html", null ],
-          [ "ConscienceAccessoryViewController", "interface_conscience_accessory_view_controller.html", null ],
+          [ "ConscienceAcceptViewController", "class_conscience_accept_view_controller.html", null ],
+          [ "ConscienceAccessoryViewController", "class_conscience_accessory_view_controller.html", null ],
           [ "ConscienceListViewController", "interface_conscience_list_view_controller.html", null ],
-          [ "ConscienceViewController", "interface_conscience_view_controller.html", null ],
+          [ "ConscienceViewController", "class_conscience_view_controller.html", null ],
           [ "DilemmaListViewController", "interface_dilemma_list_view_controller.html", null ],
           [ "DilemmaViewController", "interface_dilemma_view_controller.html", null ],
-          [ "HomeViewController", "interface_home_view_controller.html", null ],
+          [ "HomeViewController", "class_home_view_controller.html", null ],
           [ "IntroViewController", "interface_intro_view_controller.html", null ],
-          [ "ReferenceDetailViewController", "interface_reference_detail_view_controller.html", null ],
-          [ "ReferenceListViewController", "interface_reference_list_view_controller.html", null ],
+          [ "ReferenceDetailViewController", "class_reference_detail_view_controller.html", null ],
+          [ "ReferenceListViewController", "class_reference_list_view_controller.html", null ],
           [ "ReferenceViewController", "interface_reference_view_controller.html", null ],
           [ "ReportPieViewController", "interface_report_pie_view_controller.html", null ]
         ] ],
@@ -116,10 +116,10 @@ var hierarchy =
     [ "ReportPieModel()", "category_report_pie_model_07_08.html", null ],
     [ "ReportPieViewModel", "class_report_pie_view_model.html", null ],
     [ "<UIActionSheetDelegate>", null, [
-      [ "ReferenceDetailViewController", "interface_reference_detail_view_controller.html", null ]
+      [ "ReferenceDetailViewController", "class_reference_detail_view_controller.html", null ]
     ] ],
     [ "<UIApplicationDelegate>", null, [
-      [ "MoraLifeAppDelegate", "interface_mora_life_app_delegate.html", null ]
+      [ "MoraLifeAppDelegate", "class_mora_life_app_delegate.html", null ]
     ] ],
     [ "UIColor(Utility)", "category_u_i_color_07_utility_08.html", null ],
     [ "UIFont(Utility)", "category_u_i_font_07_utility_08.html", null ],
@@ -127,10 +127,10 @@ var hierarchy =
     [ "<UISearchBarDelegate>", null, [
       [ "ChoiceHistoryViewController()", "category_choice_history_view_controller_07_08.html", null ],
       [ "ChoiceListViewController", "interface_choice_list_view_controller.html", null ],
-      [ "ChoiceModalViewController", "interface_choice_modal_view_controller.html", null ],
+      [ "ChoiceModalViewController", "class_choice_modal_view_controller.html", null ],
       [ "ConscienceListViewController", "interface_conscience_list_view_controller.html", null ],
       [ "DilemmaListViewController", "interface_dilemma_list_view_controller.html", null ],
-      [ "ReferenceListViewController", "interface_reference_list_view_controller.html", null ]
+      [ "ReferenceListViewController", "class_reference_list_view_controller.html", null ]
     ] ],
     [ "UITableViewCell", null, [
       [ "AccessoryTableViewCell", "interface_accessory_table_view_cell.html", null ],
@@ -142,35 +142,35 @@ var hierarchy =
     [ "<UITableViewDataSource>", null, [
       [ "ChoiceHistoryViewController()", "category_choice_history_view_controller_07_08.html", null ],
       [ "ChoiceListViewController", "interface_choice_list_view_controller.html", null ],
-      [ "ChoiceModalViewController", "interface_choice_modal_view_controller.html", null ],
+      [ "ChoiceModalViewController", "class_choice_modal_view_controller.html", null ],
       [ "ConscienceListViewController", "interface_conscience_list_view_controller.html", null ],
       [ "DilemmaListViewController", "interface_dilemma_list_view_controller.html", null ],
-      [ "ReferenceListViewController", "interface_reference_list_view_controller.html", null ],
+      [ "ReferenceListViewController", "class_reference_list_view_controller.html", null ],
       [ "ReportPieViewController", "interface_report_pie_view_controller.html", null ]
     ] ],
     [ "<UITableViewDelegate>", null, [
       [ "ChoiceHistoryViewController()", "category_choice_history_view_controller_07_08.html", null ],
       [ "ChoiceListViewController", "interface_choice_list_view_controller.html", null ],
-      [ "ChoiceModalViewController", "interface_choice_modal_view_controller.html", null ],
+      [ "ChoiceModalViewController", "class_choice_modal_view_controller.html", null ],
       [ "ConscienceListViewController", "interface_conscience_list_view_controller.html", null ],
       [ "DilemmaListViewController", "interface_dilemma_list_view_controller.html", null ],
-      [ "ReferenceListViewController", "interface_reference_list_view_controller.html", null ],
+      [ "ReferenceListViewController", "class_reference_list_view_controller.html", null ],
       [ "ReportPieViewController", "interface_report_pie_view_controller.html", null ]
     ] ],
     [ "UITextField", null, [
       [ "StructuredTextField", "interface_structured_text_field.html", null ]
     ] ],
     [ "<UITextFieldDelegate>", null, [
-      [ "ChoiceDetailViewController", "interface_choice_detail_view_controller.html", null ],
+      [ "ChoiceDetailViewController", "class_choice_detail_view_controller.html", null ],
       [ "ChoiceViewController", "interface_choice_view_controller.html", null ]
     ] ],
     [ "<UITextViewDelegate>", null, [
       [ "ChoiceViewController", "interface_choice_view_controller.html", null ]
     ] ],
     [ "UIView", null, [
-      [ "AccessoryObjectView", "interface_accessory_object_view.html", null ],
+      [ "AccessoryObjectView", "class_accessory_object_view.html", null ],
       [ "ConscienceBubbleView", "interface_conscience_bubble_view.html", null ],
-      [ "ConscienceObjectView", "interface_conscience_object_view.html", null ],
+      [ "ConscienceObjectView", "class_conscience_object_view.html", null ],
       [ "ConscienceView", "interface_conscience_view.html", null ],
       [ "GraphView", "interface_graph_view.html", null ]
     ] ],

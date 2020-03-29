@@ -7,8 +7,8 @@ var searchData=
   ['title_2429',['title',['../interface_reference_model.html#a730940d141ac423be3a9a34dc9839891',1,'ReferenceModel::title()'],['../category_reference_model_07_08.html#a77838d65750da11f4cd9b1ce7eefd30f',1,'ReferenceModel()::title()']]],
   ['tonguelayers_2430',['tongueLayers',['../interface_conscience_body.html#a9a38270c288912cc6c6344f27857ed11',1,'ConscienceBody']]],
   ['topaccessory_2431',['topAccessory',['../interface_conscience_accessories.html#a04ec63934652ddb5763a6a7d3d0e6ee1',1,'ConscienceAccessories']]],
-  ['totalgradients_2432',['totalGradients',['../interface_conscience_object_view.html#ac37258ecdf372041e99dc52cad1983eb',1,'ConscienceObjectView']]],
-  ['totallayers_2433',['totalLayers',['../interface_conscience_object_view.html#ae1c815ed12880c7eee8ac23f107d9216',1,'ConscienceObjectView']]],
-  ['transientmood_2434',['transientMood',['../interface_user_conscience.html#a701c546bfc6682f9db013f5897d0da39',1,'UserConscience']]],
+  ['totalgradients_2432',['totalGradients',['../class_conscience_object_view.html#ac37258ecdf372041e99dc52cad1983eb',1,'ConscienceObjectView']]],
+  ['totallayers_2433',['totalLayers',['../class_conscience_object_view.html#ae1c815ed12880c7eee8ac23f107d9216',1,'ConscienceObjectView']]],
+  ['transientmood_2434',['transientMood',['../class_user_conscience.html#a701c546bfc6682f9db013f5897d0da39',1,'UserConscience']]],
   ['typebelief_2435',['typeBelief',['../interface_reference_belief.html#a815c3854c0f6377a126b4dd719dd225e',1,'ReferenceBelief']]]
 ];

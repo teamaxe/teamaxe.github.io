@@ -2,7 +2,7 @@ var searchData=
 [
   ['deathyearperson_2266',['deathYearPerson',['../interface_reference_person.html#af24522ab89cc01486ed8be6d0c62b75b',1,'ReferencePerson']]],
   ['definitionmoral_2267',['definitionMoral',['../interface_moral.html#a1dad18cb8473fd27b63933523061ed94',1,'Moral']]],
-  ['details_2268',['details',['../interface_choice_history_model.html#a24d421e24c704989598655093b73b217',1,'ChoiceHistoryModel::details()'],['../category_choice_history_model_07_08.html#ab25b7484df885fa4407849cf30dc43e7',1,'ChoiceHistoryModel()::details()'],['../interface_reference_model.html#a26e6ad71b9d0b060cbb0c64f8eb2e3fe',1,'ReferenceModel::details()'],['../category_reference_model_07_08.html#a638a5fa674b751dd5f364c10a0212d52',1,'ReferenceModel()::details()']]],
+  ['details_2268',['details',['../interface_choice_history_model.html#a24d421e24c704989598655093b73b217',1,'ChoiceHistoryModel::details()'],['../interface_reference_model.html#a26e6ad71b9d0b060cbb0c64f8eb2e3fe',1,'ReferenceModel::details()'],['../category_choice_history_model_07_08.html#ab25b7484df885fa4407849cf30dc43e7',1,'ChoiceHistoryModel()::details()'],['../category_reference_model_07_08.html#a638a5fa674b751dd5f364c10a0212d52',1,'ReferenceModel()::details()']]],
   ['dilemmacampaign_2269',['dilemmaCampaign',['../category_dilemma_list_model_07_08.html#a1350a82b4d26b3e5ffa4031c8e3e66d9',1,'DilemmaListModel()']]],
   ['dilemmadetails_2270',['dilemmaDetails',['../interface_dilemma_list_model.html#a27dc614ac44bdc26a0b2fbb3a2fa7a52',1,'DilemmaListModel::dilemmaDetails()'],['../category_dilemma_list_model_07_08.html#a92b309407a53de598cfc4bf59b8ab040',1,'DilemmaListModel()::dilemmaDetails()']]],
   ['dilemmadisplaynames_2271',['dilemmaDisplayNames',['../interface_dilemma_list_model.html#a1e878947004f59f6c75faed43c3e8d7d',1,'DilemmaListModel::dilemmaDisplayNames()'],['../category_dilemma_list_model_07_08.html#ab77da36afc59736577cd41c49fd4432a',1,'DilemmaListModel()::dilemmaDisplayNames()']]],
@@ -20,5 +20,5 @@ var searchData=
   ['displaynamedilemma_2283',['displayNameDilemma',['../interface_dilemma.html#a28ba6c1dc9091e59f786edd93808862e',1,'Dilemma']]],
   ['displaynamemoral_2284',['displayNameMoral',['../interface_moral.html#aa9604054da996025fcaf250ad1d0a69d',1,'Moral']]],
   ['displaynamereference_2285',['displayNameReference',['../interface_reference_asset.html#a1dac86af27f46f7accfed35ce6aeb2a8',1,'ReferenceAsset']]],
-  ['dynamicpath_2286',['dynamicPath',['../interface_conscience_object_view.html#a418dc3a6dcdc4ddc7804c3dcc1b9ec8c',1,'ConscienceObjectView']]]
+  ['dynamicpath_2286',['dynamicPath',['../class_conscience_object_view.html#a418dc3a6dcdc4ddc7804c3dcc1b9ec8c',1,'ConscienceObjectView']]]
 ];

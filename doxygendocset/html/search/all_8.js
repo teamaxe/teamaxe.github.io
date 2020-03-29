@@ -23,7 +23,7 @@ var searchData=
   ['homemodel_2em_448',['HomeModel.m',['../_home_model_8m.html',1,'']]],
   ['homenavigationcontroller_449',['homeNavigationController',['../category_mora_life_app_delegate_07_08.html#a5754063916dbe83a92a5374b99bad7f7',1,'MoraLifeAppDelegate()']]],
   ['homevicedisplayname_450',['homeViceDisplayName',['../category_home_view_controller_07_08.html#a6c30690937287395e7acdc96146be944',1,'HomeViewController()']]],
-  ['homeviewcontroller_451',['HomeViewController',['../interface_home_view_controller.html',1,'']]],
+  ['homeviewcontroller_451',['HomeViewController',['../class_home_view_controller.html',1,'']]],
   ['homeviewcontroller_28_29_452',['HomeViewController()',['../category_home_view_controller_07_08.html',1,'']]],
   ['homeviewcontroller_2eh_453',['HomeViewController.h',['../_home_view_controller_8h.html',1,'']]],
   ['homeviewcontroller_2em_454',['HomeViewController.m',['../_home_view_controller_8m.html',1,'']]],

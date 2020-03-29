@@ -5,7 +5,7 @@ var dir_3a68f7d9835669a527a341e90221accb =
     [ "Model", "dir_575772ab7895c88eb405831118875dd7.html", "dir_575772ab7895c88eb405831118875dd7" ],
     [ "View", "dir_251a435c9d4d0497e4fd42780797bcff.html", "dir_251a435c9d4d0497e4fd42780797bcff" ],
     [ "MoraLifeAppDelegate.h", "_mora_life_app_delegate_8h.html", [
-      [ "MoraLifeAppDelegate", "interface_mora_life_app_delegate.html", "interface_mora_life_app_delegate" ]
+      [ "MoraLifeAppDelegate", "class_mora_life_app_delegate.html", "class_mora_life_app_delegate" ]
     ] ],
     [ "MoraLifeAppDelegate.m", "_mora_life_app_delegate_8m.html", "_mora_life_app_delegate_8m" ]
 ];

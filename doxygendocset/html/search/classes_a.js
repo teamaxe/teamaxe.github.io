@@ -10,12 +10,12 @@ var searchData=
   ['userchoicedao_1323',['UserChoiceDAO',['../interface_user_choice_d_a_o.html',1,'']]],
   ['usercollectable_1324',['UserCollectable',['../interface_user_collectable.html',1,'']]],
   ['usercollectabledao_1325',['UserCollectableDAO',['../interface_user_collectable_d_a_o.html',1,'']]],
-  ['userconscience_1326',['UserConscience',['../interface_user_conscience.html',1,'']]],
+  ['userconscience_1326',['UserConscience',['../class_user_conscience.html',1,'']]],
   ['userconscience_28_29_1327',['UserConscience()',['../category_user_conscience_07_08.html',1,'']]],
   ['userconsciencetouchprotocol_1328',['UserConscienceTouchProtocol',['../class_user_conscience_touch_protocol.html',1,'']]],
   ['userconsciencetouchprotocol_2dp_1329',['UserConscienceTouchProtocol-p',['../protocol_user_conscience_touch_protocol-p.html',1,'']]],
   ['userdilemma_1330',['UserDilemma',['../interface_user_dilemma.html',1,'']]],
   ['userdilemmadao_1331',['UserDilemmaDAO',['../interface_user_dilemma_d_a_o.html',1,'']]],
   ['userentry_1332',['UserEntry',['../interface_user_entry.html',1,'']]],
-  ['userluck_1333',['UserLuck',['../interface_user_luck.html',1,'']]]
+  ['userluck_1333',['UserLuck',['../class_user_luck.html',1,'']]]
 ];
