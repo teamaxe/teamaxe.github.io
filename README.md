@@ -2,6 +2,6 @@
 # AdamAxe.com
 # Creator of MoraLife
 
-layout: home
+layout: default
 ---
 [http://adamaxe.github.io](AdamAxe.com)
