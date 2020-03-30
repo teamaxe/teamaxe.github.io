@@ -1,0 +1,23 @@
+<div class='menuwrap'>
+<div class='menu'>
+<img alt='Adam Axe.Com logo' class='logoban' src='/assets/logo-adamaxe-med.png'/>
+<div id="sidenav">
+<ul>
+<li style="z-index: 100;"><a href="/index.html">Home</a></li>
+<li style="z-index: 75;"><a href="/archive">Blog Archive&nbsp;<img src="/assets/nav-aac.png" alt="Secondary Navigation pip" /></a>
+	<ul>
+          {% for post in site.posts %}
+            <li>
+              <a href="{{ post.url | prepend: site.baseurl }}">{{post.date | date: "%b %d, %Y"}} - {{ post.title }}</a>
+            </li>
+          {% endfor %}
+	</ul>
+</li>
+<li style="z-index: 15;"><a href="/contact.html">Contact</a></li>
+</ul>
+</div>
+
+</div>
+
+<br/>
+</div>

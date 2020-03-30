@@ -1,0 +1,419 @@
+/*
+aac.css
+
+Default Cascading Style Sheet for layout
+
+100% width - 10px pad on all borders
+Transparent Gif overlays
+Initial Caps
+
+Gray-Background:	#eeeeee
+Gray-Text:		#7c7c7c
+Red:			#ad1008
+Green:			#00aa0c
+Blue:			#2090da
+
+#5588aa
+font:$bodyfont;
+background:$bgcolor;
+
+h2.date-header {
+  padding-top:15px;
+  color:$footercolor;
+  padding-bottom:0px;
+  margin-bottom:0px;
+  font-size: 90%;
+}
+
+*/
+
+/*Default styles*/
+body {
+	background-color: #eeeeee;
+	font-family:	futura, 'century gothic', helvetica, sans-serif;
+	margin:		0 3em 0;
+	background-attachment: fixed;
+}
+
+img {
+	border-style:	none;
+}
+
+div {
+}
+
+h1 {
+	margin-top:	0px;
+	margin-bottom:	0px;
+	text-align:	center;
+	padding:	0px;
+}
+
+h2 {
+	margin-top:	0px;
+	margin-bottom:	0px;
+	color:		#FFFFFF;
+	padding:	0px;
+	font-size:	14pt;
+	font-family:	futura, 'century gothic', helvetica, sans-serif;
+	#text-shadow:	#7c7c7c 1px 2px 1px;
+	padding-top:	5px;
+	padding-bottom:	8px;
+
+}
+
+h2:first-letter {
+	display: block;
+	font-size: 120%;
+
+	font-family: futura, 'century gothic', helvetica, sans-serif;
+	font-smooth: always;
+	padding-left: 5px;
+	padding-right: 1px;
+
+	
+}
+
+h3 {
+	background-image: url("/assets/swatch-red.png");
+	background-position: left top;
+	background-repeat: no-repeat;
+
+	margin-top:	0px;
+	margin-left:	5px;
+	margin-bottom:	0px;
+	color:		#FFFFFF;
+	padding:	0px;
+	font-size:	14pt;
+	font-family:	futura, 'century gothic', helvetica, sans-serif;
+	text-shadow:	#7c7c7c 1px 2px 1px;
+	padding-top:	5px;
+	padding-bottom:	8px;
+	padding-left:	20px;
+
+}
+
+p {
+	display: block;
+	font-family: futura, 'century gothic', helvetica, sans-serif;
+}
+
+a {
+	font-family: futura, 'century gothic', helvetica, sans-serif;
+	color: #696969;
+}
+
+a:hover {
+	#color: #B36A00;
+	color: #FFFFFF;
+}
+
+p.small {
+	font-size: 80%;
+	padding: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;	
+}
+
+ul li {
+
+	list-style-image: url("/assets/bullet-aac.png");
+
+}
+
+/*Custom styles
+	
+Header
+*/
+
+img.logoban {
+	display: block;
+	margin-left: auto;
+	margin-right: auto
+}
+
+div.prehead{
+
+	margin-top: 12px;
+}
+div.headmenutop {
+	position: fixed;
+	right: 0px;
+	top: 10px;
+	background-color: #2090da;
+	display: block;
+	text-align: right;
+	font-weight: bold;
+	padding-right: 5px;
+	padding-left: 5px;
+	padding-bottom: 4px;
+	vertical-align: top;
+	padding-top:	5px;
+	z-index:	1;
+}
+div.headmenutop > a {
+	text-decoration: none;
+	color: #ffffff;	
+	padding-left: 5px;
+	padding-right: 5px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+div.headmenu {
+	background-color: #7c7c7c;
+	display: block;
+	text-align: left;
+	padding-right: 5px;
+	padding-bottom: 4px;
+	vertical-align: top;
+	padding-top:	8px;
+}
+div.headmenu > a {
+	text-decoration: none;
+	color: #ffffff;	
+	padding-left: 5px;
+	padding-right: 5px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+.headhighlight {
+
+	background-image: url("/assets/swatch-blue.png");
+	background-position: center;
+	background-repeat: no-repeat;
+	color: #ffffff;
+	background-repeat: no-repeat;
+}
+
+div.headmenutop > a:hover {
+        background-image: url("/assets/swatch-grey.png");
+        background-position: center;
+        background-repeat: no-repeat;
+
+        color: #ffffff;
+        background-repeat: no-repeat;
+}
+
+div.headmenu > a:hover {
+	background-image: url("/assets/swatch-blue.png");
+	background-position: center;
+	background-repeat: no-repeat;
+
+	color: #ffffff;
+	background-repeat: no-repeat;
+}
+
+/*Content body*/
+table.bodysection {
+
+	border: none;
+
+}
+
+td.menudef{
+
+	border: none;
+	width: 20%;
+	vertical-align: top;
+	padding-top: 5px;
+	align: center;
+
+}
+
+td.contentdef{
+
+	border: none;
+	width: 80%;
+	padding-top: 5px;
+	padding-left: 10px;	
+	vertical-align: top;
+}
+
+div.aacmain {
+	display: block;
+	padding-left:	5px;
+}
+
+div.aacmain > p:first-letter {
+	font-size: 300%;
+	color: #2090da;
+	font-family: futura, 'century gothic', helvetica, sans-serif;
+	font-smooth: always;
+	padding-right: 5px;
+	display: block;
+	float: left;
+	
+}
+
+div.menu {
+
+	display: block;
+	padding: 1px;
+	border-style: solid;
+	border-color: #2090da;
+	border-top-width: 0px;
+	border-bottom-width: 0px;
+	border-left-width: 0px;
+	border-right-width: 2px;
+}
+
+div.menuwrap {
+
+	width: 100%;
+	display: block;
+	clear: both;
+	float: left;
+	padding-right: 10px;
+	padding-bottom: 10px;
+}
+
+div.menu > a {
+	text-decoration: none;
+	color: #888888;
+	font-size: 80%;
+	display: block;
+	text-indent: 20px;
+	background-repeat: no-repeat;
+	background-position: 0px 3px;
+	padding-bottom: 2px;
+}
+
+div.menu > a:hover {
+	color: #00aa0c;
+	background-repeat: no-repeat;
+}
+
+img.uclogo {
+
+	float: right;
+}
+
+
+/*Footer*/
+
+div.foot {
+	background-image: url("/assets/footer-aac.png");
+	background-repeat: no-repeat;
+	background-position: center;
+	height:	50px;
+
+	font-family: futura, 'century gothic', helvetica, sans-serif;
+	text-align: center;
+	color: #ffffff;
+	padding: 25px 10px 0px 35px;
+}
+
+div.foot > a {
+	color: #ffffff;
+}
+
+div.validator {
+	text-align: center;
+	font-size: 8pt;
+}
+
+div.validator > a > img {
+	border-width: 0px;
+}
+
+#sidenav ul{
+	width: 11em;
+	background-color: #eeeeee;
+} 
+ 
+#sidenav li {
+	width: 8em;
+	list-style: none; 
+	position: relative;
+	vertical-align: bottom; /* IE5 */
+}
+ 
+#sidenav ul a {
+	vertical-align: bottom; /* IE5 */
+	text-decoration: none;
+	font-weight: normal;
+	color: #888888;
+	font-size: 80%;
+	display: block;
+	background-repeat: no-repeat;
+	background-position: 0px 3px;
+	padding-bottom: 2px;
+}
+
+#sidenav ul a:hover {
+	font-weight: normal;
+	color: #B36A00;
+	background-repeat: no-repeat;
+}
+ 
+#sidenav ul ul {
+	border-top: 1px solid #ad1008;
+	border-left: 1px solid #ad1008; 
+	border-right: 1px solid #ad1008;
+	border-bottom: 1px solid #ad1008;
+	left: -3000px;
+	background: #fff;
+	position: absolute;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	padding-left: 20px;
+} 
+ 
+#sidenav ul li:hover ul {
+	left: 4em;
+	top: 4px;
+} 
+
+#sidediversions ul{
+        width: 8em;
+        background: #fff;
+	padding-left: 40px;
+}
+
+#sidediversions li {
+        list-style: none;
+        position: relative;
+        vertical-align: bottom; /* IE5 */
+}
+
+#sidediversions ul a {
+        vertical-align: bottom; /* IE5 */
+ 	  font-weight: normal;
+        text-decoration: none;
+        color: #888888;
+        font-size: 80%;
+        display: block;
+        background-repeat: no-repeat;
+        background-position: 0px 3px;
+        padding-bottom: 2px;
+}
+
+#techtable{
+	border-width:	2px;
+	border-color:	#7c7c7c;
+        background: #fff;
+	width:	90%;
+
+}
+#techtable a img {
+	border:	0;
+}
+
+#techtable td {
+	text-align: center;
+}
+
+.mediumtype {
+	font-size:	80%;
+}
+
+.smalltype {
+	font-size:	25%;
+}
+
+.bold {
+	font-weight:	bold;
+}
+
