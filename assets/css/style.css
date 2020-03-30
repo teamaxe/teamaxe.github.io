@@ -207,7 +207,7 @@ div.headmenu > a:hover {
 
 /*Content body*/
 table.bodysection {
-
+	width: 100%;
 	border: none;
 
 }
@@ -225,7 +225,8 @@ td.menudef{
 td.contentdef{
 
 	border: none;
-	width: 80%;
+#	width: 80%;
+	width: 100%;
 	padding-top: 5px;
 	padding-left: 10px;	
 	vertical-align: top;
