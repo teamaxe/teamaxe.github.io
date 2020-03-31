@@ -6,27 +6,26 @@
   <body>
     {%- include header.html -%}
 
-	<table class='bodysection'>
-	<tbody>
+	<div class='bodysection'>
 
-	<tr><td class='menudef'>
+	    <div class='menudef'>
    	 {%- include sidebar.html -%}
 
-	</td>
+	    </div>
 
-	<td class='contentdef'>
+	    <div class='contentdef'>
 
-	<div class='aacmain'>
+	        <div class='aacmain'>
 
-    <main class="page-content" aria-label="Content">
-      <div class="wrapper">
-        {{ content }}
-      </div>
-    </main>
-</div>
+            <main class="page-content" aria-label="Content">
+                <div class="wrapper">
+                {{ content }}
+                </div>
+            </main>
+            </div>
+        </div>
 
-
-</td></tr></tbody></table>
+    </div>
 
     {%- include footer.html -%}
 

@@ -71,7 +71,7 @@ h2:first-letter {
 	padding-left: 5px;
 	padding-right: 1px;
 
-	
+
 }
 
 h3 {
@@ -112,7 +112,7 @@ p.small {
 	font-size: 80%;
 	padding: 0px;
 	margin-top: 0px;
-	margin-bottom: 0px;	
+	margin-bottom: 0px;
 }
 
 ul li {
@@ -122,14 +122,13 @@ ul li {
 }
 
 /*Custom styles
-	
+
 Header
 */
 
 img.logoban {
 	display: block;
-	margin-left: auto;
-	margin-right: auto
+	max-width: 100%;
 }
 
 div.prehead{
@@ -153,7 +152,7 @@ div.headmenutop {
 }
 div.headmenutop > a {
 	text-decoration: none;
-	color: #ffffff;	
+	color: #ffffff;
 	padding-left: 5px;
 	padding-right: 5px;
 	padding-top: 10px;
@@ -171,7 +170,7 @@ div.headmenu {
 }
 div.headmenu > a {
 	text-decoration: none;
-	color: #ffffff;	
+	color: #ffffff;
 	padding-left: 5px;
 	padding-right: 5px;
 	padding-top: 10px;
@@ -206,13 +205,14 @@ div.headmenu > a:hover {
 }
 
 /*Content body*/
-table.bodysection {
+div.bodysection {
 	width: 100%;
 	border: none;
+	display: flex;
 
 }
 
-td.menudef{
+div.menudef{
 
 	border: none;
 	width: 20%;
@@ -222,13 +222,12 @@ td.menudef{
 
 }
 
-td.contentdef{
+div.contentdef{
 
 	border: none;
-#	width: 80%;
 	width: 100%;
 	padding-top: 5px;
-	padding-left: 10px;	
+	padding-left: 10px;
 	vertical-align: top;
 }
 
@@ -245,7 +244,7 @@ div.aacmain > p:first-letter {
 	padding-right: 5px;
 	display: block;
 	float: left;
-	
+
 }
 
 div.menu {
@@ -291,6 +290,10 @@ img.uclogo {
 	float: right;
 }
 
+img.responsive {
+	max-width: 100%;
+	height: auto;
+}
 
 /*Footer*/
 
@@ -320,17 +323,17 @@ div.validator > a > img {
 }
 
 #sidenav ul{
-	width: 11em;
+	width: 20%;
 	background-color: #eeeeee;
-} 
- 
+}
+
 #sidenav li {
-	width: 8em;
-	list-style: none; 
+	width: 10%;
+	list-style: none;
 	position: relative;
 	vertical-align: bottom; /* IE5 */
 }
- 
+
 #sidenav ul a {
 	vertical-align: bottom; /* IE5 */
 	text-decoration: none;
@@ -348,10 +351,10 @@ div.validator > a > img {
 	color: #B36A00;
 	background-repeat: no-repeat;
 }
- 
+
 #sidenav ul ul {
 	border-top: 1px solid #ad1008;
-	border-left: 1px solid #ad1008; 
+	border-left: 1px solid #ad1008;
 	border-right: 1px solid #ad1008;
 	border-bottom: 1px solid #ad1008;
 	left: -3000px;
@@ -360,12 +363,12 @@ div.validator > a > img {
 	padding-top: 5px;
 	padding-bottom: 5px;
 	padding-left: 20px;
-} 
- 
+}
+
 #sidenav ul li:hover ul {
 	left: 4em;
 	top: 4px;
-} 
+}
 
 #sidediversions ul{
         width: 8em;

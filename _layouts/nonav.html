@@ -6,23 +6,21 @@
   <body>
     {%- include header.html -%}
 
-	<table class='bodysection'>
-	<tbody>
+	<div class='bodysection'>
+	<div class='contentdef'>
 
-	<tr>
-	<td class='contentdef'>
+	    <div class='aacmain'>
 
-	<div class='aacmain'>
-
-    <main class="page-content" aria-label="Content">
-      <div class="wrapper">
-        {{ content }}
-      </div>
-    </main>
-</div>
+        <main class="page-content" aria-label="Content">
+        <div class="wrapper">
+            {{ content }}
+        </div>
+        </main>
+        </div>
 
 
-</td></tr></tbody></table>
+    </div>
+    </div>
 
     {%- include footer.html -%}
 
