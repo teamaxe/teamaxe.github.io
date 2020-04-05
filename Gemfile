@@ -5,3 +5,5 @@ gemspec
 
 gem "jekyll"
 gem "html-proofer"
+gem "cucumber"
+gem "selenium-webdriver"
