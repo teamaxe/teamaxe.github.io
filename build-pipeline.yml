@@ -13,17 +13,14 @@ steps:
 
   - script: |
       gem install jekyll bundler
-      bundle install --retry=3 --jobs=4
-    displayName: 'bundle install'
+    displayName: 'setup jekyll and bundle'
 
   - script: |
       bundle install
       bundle exec jekyll build
-    displayName: 'jekyll'
+    displayName: 'jekyll build'
 
   - script: |
-      bundle install
-      bundle exec jekyll build
       bundle exec htmlproofer ./_site --disable-external --check-favicon --check-html --report-invalid-tags --report-missing-names --report-eof-tags --report-missing-doctype --report-mismatched-tags
     displayName: 'html proofing'
 
