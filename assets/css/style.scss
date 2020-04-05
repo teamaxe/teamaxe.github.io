@@ -1,36 +1,35 @@
+---
+---
 /*
-aac.css
+style.scss
 
-Default Cascading Style Sheet for layout
+Default SASS Cascading Style Sheet for layout
 
 100% width - 10px pad on all borders
 Transparent Gif overlays
 Initial Caps
 
 Gray-Background:	#eeeeee
-Gray-Text:		#7c7c7c
-Red:			#ad1008
-Green:			#00aa0c
-Blue:			#2090da
-
-#5588aa
-font:$bodyfont;
-background:$bgcolor;
-
-h2.date-header {
-  padding-top:15px;
-  color:$footercolor;
-  padding-bottom:0px;
-  margin-bottom:0px;
-  font-size: 90%;
-}
+Gray-Text:			#7c7c7c
+Red:				#ad1008
+Green:				#00aa0c
+Blue:				#2090da
 
 */
 
+$font-stack:    futura, 'century gothic', helvetica, sans-serif;
+$color-offwhite:		#eeeeee;
+$color-grey:			#7c7c7c;
+$color-darkgrey:		#696969;
+$color-blue:			#2090da;
+$color-red:				#ad1008;
+$color-green:			#00aa0c;
+$color-orange:			#B36A00;
+
 /*Default styles*/
 body {
-	background-color: #eeeeee;
-	font-family:	futura, 'century gothic', helvetica, sans-serif;
+	background-color: $color-offwhite;
+	font-family:	$font-stack;
 	margin:		0 1vw 0;
 	background-attachment: fixed;
 }
@@ -55,8 +54,8 @@ h2 {
 	color:		#7c7c7c;
 	padding:	0px;
 	font-size:	14pt;
-	font-family:	futura, 'century gothic', helvetica, sans-serif;
-	text-shadow:	#000000 1px 2px 2px;
+	font-family:	$font-stack;
+	text-shadow:	#000 1px 2px 2px;
 	padding-top:	5px;
 	padding-bottom:	8px;
 
@@ -66,7 +65,7 @@ h2:first-letter {
 	display: block;
 	font-size: 130%;
 
-	font-family: futura, 'century gothic', helvetica, sans-serif;
+	font-family: $font-stack;
 	font-smooth: always;
 	padding-left: 5px;
 	padding-right: 1px;
@@ -85,7 +84,7 @@ h3 {
 	color:		#FFFFFF;
 	padding:	0px;
 	font-size:	14pt;
-	font-family:	futura, 'century gothic', helvetica, sans-serif;
+	font-family:	$font-stack;
 	text-shadow:	#7c7c7c 1px 2px 1px;
 	padding-top:	5px;
 	padding-bottom:	8px;
@@ -95,17 +94,16 @@ h3 {
 
 p {
 	display: block;
-	font-family: futura, 'century gothic', helvetica, sans-serif;
+	font-family: $font-stack;
 }
 
 a {
-	font-family: futura, 'century gothic', helvetica, sans-serif;
-	color: #696969;
+	font-family: $font-stack;
+	color: $color-darkgrey;
 }
 
 a:hover {
-	#color: #B36A00;
-	color: #FFFFFF;
+	color: #fff;
 }
 
 p.small {
@@ -139,7 +137,7 @@ div.headmenutop {
 	position: fixed;
 	right: 0px;
 	top: 10px;
-	background-color: #2090da;
+	background-color: $color-blue;
 	display: block;
 	text-align: right;
 	font-weight: bold;
@@ -152,7 +150,7 @@ div.headmenutop {
 }
 div.headmenutop > a {
 	text-decoration: none;
-	color: #ffffff;
+	color: #ffff;
 	padding-left: 5px;
 	padding-right: 5px;
 	padding-top: 10px;
@@ -160,7 +158,7 @@ div.headmenutop > a {
 }
 
 div.headmenu {
-	background-color: #7c7c7c;
+	background-color: $color-grey;
 	display: block;
 	text-align: left;
 	padding-right: 5px;
@@ -171,7 +169,7 @@ div.headmenu {
 }
 div.headmenu > a {
 	text-decoration: none;
-	color: #ffffff;
+	color: #fff;
 	padding-left: 5px;
 	padding-right: 5px;
 	padding-top: 10px;
@@ -239,8 +237,8 @@ div.aacmain {
 
 div.aacmain > p:first-letter {
 	font-size: 300%;
-	color: #2090da;
-	font-family: futura, 'century gothic', helvetica, sans-serif;
+	color: $color-blue;
+	font-family: $font-stack;
 	font-smooth: always;
 	padding-right: 5px;
 	display: block;
@@ -253,7 +251,7 @@ div.menu {
 	display: block;
 	padding: 1px;
 	border-style: solid;
-	border-color: #2090da;
+	border-color: $color-blue;
 	border-top-width: 0px;
 	border-bottom-width: 0px;
 	border-left-width: 0px;
@@ -304,18 +302,18 @@ div.foot {
 	background-position: center;
 	height:	50px;
 
-	font-family: futura, 'century gothic', helvetica, sans-serif;
+	font-family: $font-stack;
 	text-align: center;
-	color: #ffffff;
+	color: #fff;
 	padding: 25px 10px 0px 35px;
 }
 
 div.foot > a {
-	color: #ffffff;
+	color: #fff;
 }
 
 div.footmenu {
-	background-color: #2090da;
+	background-color: $color-blue;
 	display: block;
 	text-align: center;
 	margin-top: 10px;
@@ -324,11 +322,11 @@ div.footmenu {
 	padding-bottom: 4px;
 	vertical-align: top;
 	padding-top:	8px;
-	color: #ffffff;
+	color: #fff;
 }
 div.footmenu > a {
 	text-decoration: none;
-	color: #ffffff;
+	color: #fff;
 	padding-left: 5px;
 	padding-right: 5px;
 	padding-top: 10px;
@@ -346,7 +344,7 @@ div.validator > a > img {
 
 #sidenav ul{
 	width: 20%;
-	background-color: #eeeeee;
+	background-color: $color-offwhite;
 }
 
 #sidenav li {
@@ -360,7 +358,7 @@ div.validator > a > img {
 	vertical-align: bottom; /* IE5 */
 	text-decoration: none;
 	font-weight: normal;
-	color: #888888;
+	color: $color-offwhite;
 	font-size: 80%;
 	display: block;
 	background-repeat: no-repeat;
@@ -370,15 +368,15 @@ div.validator > a > img {
 
 #sidenav ul a:hover {
 	font-weight: normal;
-	color: #B36A00;
+	color: $color-orange;
 	background-repeat: no-repeat;
 }
 
 #sidenav ul ul {
-	border-top: 1px solid #ad1008;
-	border-left: 1px solid #ad1008;
-	border-right: 1px solid #ad1008;
-	border-bottom: 1px solid #ad1008;
+	border-top: 1px solid $color-red;
+	border-left: 1px solid $color-red;
+	border-right: 1px solid $color-red;
+	border-bottom: 1px solid $color-red;
 	left: -3000px;
 	background: #fff;
 	position: absolute;
@@ -418,7 +416,7 @@ div.validator > a > img {
 
 #techtable{
 	border-width:	2px;
-	border-color:	#7c7c7c;
+	border-color:	$color-grey;
         background: #fff;
 	width:	90%;
 
