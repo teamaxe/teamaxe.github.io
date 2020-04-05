@@ -6,4 +6,4 @@ layout: default
 ---
 This is the repository for the adamaxe.com site hosted on Github-pages.
 
-[http://adamaxe.github.io](AdamAxe.com)
+[AdamAxe.com](http://adamaxe.github.io)
