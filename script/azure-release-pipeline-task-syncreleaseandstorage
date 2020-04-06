@@ -1,0 +1,1 @@
+az storage blob sync -s _site -c $(containerName) --account-name $(storageAccount)
