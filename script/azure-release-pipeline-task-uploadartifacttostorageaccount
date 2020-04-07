@@ -1,0 +1,1 @@
+az storage blob upload-batch -s /home/vsts/work/r1/a/_adamaxe.adamaxe.github.io/site -d \$web --account-name adamaxecomweb --auth-mode login
