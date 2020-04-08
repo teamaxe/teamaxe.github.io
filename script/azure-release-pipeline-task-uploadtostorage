@@ -1,1 +1,2 @@
-az storage blob upload-batch -s $(System.DefaultWorkingDirectory)/_adamaxe.adamaxe.github.io/site/_adamaxe.adamaxe.github.io/site -d \$web --account-name adamaxecomweb --auth-mode login
+az pipelines variable list
+az storage blob upload-batch -s $workingDirectory/_adamaxe.adamaxe.github.io/site/_adamaxe.adamaxe.github.io/site -d \$web --account-name adamaxecomweb --auth-mode login
