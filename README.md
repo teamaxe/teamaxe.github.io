@@ -4,4 +4,5 @@
 
 This is the repository for the adamaxe.com site hosted on Github-pages.
 
-[AdamAxe.com](http://adamaxe.github.io)
+[AdamAxe.com](http://adamaxe.com)
+[Azure AdamAxe.com](https://adamaxecomweb.z21.web.core.windows.net/)
