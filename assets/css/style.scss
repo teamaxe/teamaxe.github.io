@@ -7,20 +7,27 @@ Default SASS Cascading Style Sheet for layout
 */
 
 $font-stack:    futura, 'century gothic', helvetica, sans-serif;
+$color-white:			#FFFFFF;
+$color-black:			#000000;
 $color-offwhite:		#eeeeee;
-$color-grey:			#7c7c7c;
-$color-darkgrey:		#696969;
-$color-blue:			#2090da;
-$color-red:				#ad1008;
-$color-green:			#00aa0c;
-$color-orange:			#B36A00;
+$color-grey:			#9F9DA6;
+$color-darkgrey:		#717271;
+$color-blue:			#3370A2;
+$color-red:				#BA181B;
+$color-lightgreen:		#C5DECD;
+$color-green:			#3B7080;
+$color-darkgreen:		#394648;
+$color-orange:			#F96900;
+$color-gold:			#FFCF00;
 
 /*Default styles*/
 body {
-	background-color: $color-offwhite;
+	background-color: $color-darkgreen;
 	font-family:	$font-stack;
 	margin:		0 1vw 0;
 	background-attachment: fixed;
+	color: $color-lightgreen;
+
 }
 
 img {
@@ -38,16 +45,15 @@ h1 {
 }
 
 h2 {
-	margin-top:	0px;
-	margin-bottom:	0px;
-	color:		#7c7c7c;
-	padding:	0px;
-	font-size:	14pt;
-	font-family:	$font-stack;
-	text-shadow:	#000 1px 2px 2px;
-	padding-top:	5px;
-	padding-bottom:	8px;
-
+	margin-top: 0px;
+	margin-bottom: 0px;
+	color: $color-darkgrey;
+	padding: 0px;
+	font-size: 14pt;
+	font-family: $font-stack;
+	text-shadow: $color-black 1px 2px 2px;
+	padding-top: 5px;
+	padding-bottom: 8px;
 }
 
 h2:first-letter {
@@ -66,19 +72,17 @@ h3 {
 	background-image: url("/assets/swatch-red.png");
 	background-position: left top;
 	background-repeat: no-repeat;
-
-	margin-top:	0px;
-	margin-left:	5px;
-	margin-bottom:	0px;
-	color:		#FFFFFF;
-	padding:	0px;
-	font-size:	14pt;
-	font-family:	$font-stack;
-	text-shadow:	#7c7c7c 1px 2px 1px;
-	padding-top:	5px;
-	padding-bottom:	8px;
-	padding-left:	20px;
-
+	margin-top: 0px;
+	margin-left: 5px;
+	margin-bottom: 0px;
+	color: $color-white;
+	padding: 0px;
+	font-size: 14pt;
+	font-family: $font-stack;
+	text-shadow: $color-darkgrey 1px 2px 1px;
+	padding-top: 5px;
+	padding-bottom: 8px;
+	padding-left: 20px;
 }
 
 p {
@@ -92,7 +96,7 @@ a {
 }
 
 a:hover {
-	color: #fff;
+	color: $color-white;
 }
 
 p.small {
@@ -139,7 +143,7 @@ div.headmenutop {
 }
 div.headmenutop > a {
 	text-decoration: none;
-	color: #ffff;
+	color: $color-white;
 	padding-left: 5px;
 	padding-right: 5px;
 	padding-top: 10px;
@@ -158,7 +162,7 @@ div.headmenu {
 }
 div.headmenu > a {
 	text-decoration: none;
-	color: #fff;
+	color: $color-white;
 	padding-left: 5px;
 	padding-right: 5px;
 	padding-top: 10px;
@@ -166,29 +170,26 @@ div.headmenu > a {
 }
 
 .headhighlight {
-
 	background-image: url("/assets/swatch-blue.png");
 	background-position: center;
 	background-repeat: no-repeat;
-	color: #ffffff;
+	color: $color-white;
 	background-repeat: no-repeat;
 }
 
 div.headmenutop > a:hover {
-        background-image: url("/assets/swatch-grey.png");
-        background-position: center;
-        background-repeat: no-repeat;
-
-        color: #ffffff;
-        background-repeat: no-repeat;
+	background-image: url("/assets/swatch-grey.png");
+	background-position: center;
+	background-repeat: no-repeat;
+	color: $color-white;
+	background-repeat: no-repeat;
 }
 
 div.headmenu > a:hover {
 	background-image: url("/assets/swatch-blue.png");
 	background-position: center;
 	background-repeat: no-repeat;
-
-	color: #ffffff;
+	color: $color-white;
 	background-repeat: no-repeat;
 }
 
@@ -259,7 +260,7 @@ div.menuwrap {
 
 div.menu > a {
 	text-decoration: none;
-	color: #888888;
+	color: $color-grey;
 	font-size: 80%;
 	display: block;
 	text-indent: 20px;
@@ -269,7 +270,7 @@ div.menu > a {
 }
 
 div.menu > a:hover {
-	color: #00aa0c;
+	color: $color-lightgreen;
 	background-repeat: no-repeat;
 }
 
@@ -289,16 +290,15 @@ div.foot {
 	background-image: url("/assets/footer-aac.png");
 	background-repeat: no-repeat;
 	background-position: center;
-	height:	50px;
-
+	height: 50px;
 	font-family: $font-stack;
 	text-align: center;
-	color: #fff;
+	color: $color-white;
 	padding: 25px 10px 0px 35px;
 }
 
 div.foot > a {
-	color: #fff;
+	color: $color-white;
 }
 
 div.footmenu {
@@ -310,12 +310,12 @@ div.footmenu {
 	padding-right: 5px;
 	padding-bottom: 4px;
 	vertical-align: top;
-	padding-top:	8px;
-	color: #fff;
+	padding-top: 8px;
+	color: $color-white;
 }
 div.footmenu > a {
 	text-decoration: none;
-	color: #fff;
+	color: $color-white;
 	padding-left: 5px;
 	padding-right: 5px;
 	padding-top: 10px;
@@ -367,7 +367,7 @@ div.validator > a > img {
 	border-right: 1px solid $color-red;
 	border-bottom: 1px solid $color-red;
 	left: -3000px;
-	background: #fff;
+	background: $color-white;
 	position: absolute;
 	padding-top: 5px;
 	padding-bottom: 5px;
@@ -379,9 +379,9 @@ div.validator > a > img {
 	top: 4px;
 }
 
-#sidediversions ul{
-        width: 8em;
-        background: #fff;
+#sidediversions ul {
+	width: 8em;
+	background: $color-white;
 	padding-left: 40px;
 }
 
@@ -392,23 +392,22 @@ div.validator > a > img {
 }
 
 #sidediversions ul a {
-        vertical-align: bottom; /* IE5 */
- 	  font-weight: normal;
-        text-decoration: none;
-        color: #888888;
-        font-size: 80%;
-        display: block;
-        background-repeat: no-repeat;
-        background-position: 0px 3px;
-        padding-bottom: 2px;
+	vertical-align: bottom; /* IE5 */
+	font-weight: normal;
+	text-decoration: none;
+	color: $color-grey;
+	font-size: 80%;
+	display: block;
+	background-repeat: no-repeat;
+	background-position: 0px 3px;
+	padding-bottom: 2px;
 }
 
-#techtable{
-	border-width:	2px;
-	border-color:	$color-grey;
-        background: #fff;
-	width:	90%;
-
+#techtable {
+	border-width: 2px;
+	border-color: $color-grey;
+	background: $color-white;
+	width: 90%;
 }
 #techtable a img {
 	border:	0;
